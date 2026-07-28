@@ -1,0 +1,1094 @@
+TransactionID,CustomerID,ProductID,ProductName,ProductCategory,PurchaseDate,Quantity,UnitPrice,TotalAmount,CustomerSegment,StoreLocation,PaymentType
+T00137,C033,P020,Cola,Beverages,07/12/2025,1,1.60,1.60,Premium Shopper,Westgate,Cash
+T00021,C029,P034,Cereal,Pantry,02/16/2025,1,3.90,3.90,Premium Shopper,Hilltop,Mobile
+T00264,C017,P041,Ice Cream,Frozen,11/07/2025,1,4.60,4.60,Senior,Downtown,Mobile
+T00257,C027,P025,Energy Drink,BEVERAGES,2025-11-09,2,2.20,4.40,Family,Westgate,Card
+T00260,C012,P024,Tea Bags,BEVERAGES,2025-11-06,2,3.60,,Young Singles,Riverside,Cash
+T00023,C025,P035,Sugar,Pantry,2025-02-19,1,2.10,2.10,Budget Shopper,Westgate,Card
+T00108,C035,P024,Tea Bags,Beverages,2025-06-10,1,3.60,3.60,Senior,Downtown,Mobile
+T00261,C005,P023,Coffee Beans,Beverages,11/22/2025,2,8.90,17.80,Young Singles,Hilltop,Card
+T00124,C031,P036,Olive Oil,Pantry,05-06-2025,1,$7.80,$7.80,Student,Riverside,Cash
+T00068,C018,P010,Greek Yogurt,DAIRY,2025-04-06,2,3.20,6.40,Young Singles,Hilltop,Voucher
+T00022,C009,P005,Onions,Produce,2025-02-03,3,0.90,2.70,Senior,Riverside,Card
+T00112,C045,P014,Whole Wheat Bread,BAKERY,2025-06-19,3,2.40,7.20,Student,Downtown,Card
+T00273,C024,P025,Energy Drink,Beverages,2025-11-14,1,2.20,2.20,Student,Downtown,Mobile
+T00271,C033,P025,Energy Drink,Beverages,2025-11-22,2,2.20,4.40,Premium Shopper,Hilltop,Card
+T00109,C026,P010,Greek Yogurt,Dairy,2025-06-04,2,3.20,6.40,Family,Hilltop,Mobile
+T00262,C043,P035,Sugar,Pantry,2025-11-20,,2.10,,Student,Hilltop,Mobile
+T00226,C006,P032,Pasta Sauce,Pantry,2025-10-25,2,2.70,5.40,Premium Shopper,Riverside,Cash
+T00180,C044,P002,Apples,Produce,18-08-2025,1,1.20,1.20,Budget Shopper,Riverside,Mobile
+T00083,C052,P029,Popcorn,Snacks,2025-05-10,1,2.00,2.00,Young Singles,Westgate,Mobile
+T00280,C033,P040,Frozen Pizza,Frozen,2025-12-03,3,5.20,15.60,Premium Shopper,Hilltop,Card
+T00167,C053,P014,Whole Wheat Bread,Bakery,08/18/2025,5,2.40,12.00,Senior,Hilltop,Cash
+T00071,C004,P008,Whole Milk,Dairy,20-04-2025,1,2.10,2.10,Young Singles,Downtown,Card
+T00039,C021,P018,Ground Beef,Meat,2025-03-24,1,7.20,7.20,Family,Eastpark,Card
+T00048,C056,P004,Lettuce,Produce,2025-03-23,1,1.40,1.40,Premium Shopper,Downtown,Card
+T00291,C035,P033,Rice,Pantry,2025-12-21,2,4.20,8.40,Senior,Riverside,Voucher
+T00272,C043,P050,Hand Soap,Personal Care,2025-11-16,2,2.20,4.40,Student,Riverside,Mobile
+T00132,C037,P025,Energy Drink,Beverages,06/11/2025,5,2.20,11.00,Young Singles,Eastpark,Mobile
+T00172,C030,P041,Ice Cream,Frozen,08/24/2025,2,4.60,9.20,Family,Hilltop,Mobile
+T00201,C022,P002,Apples,Produce,2025-09-01,3,1.20,3.60,Student,Eastpark,Card
+T00165,C011,P040,Frozen Pizza,Frozen,2025-08-18,1,5.20,5.20,Senior,Westgate,Card
+T00307,C005,P035,Sugar,Pantry,2025-12-06,3,2.10,6.30,Young Singles,Eastpark,Card
+T00093,C029,P028,Cookies,Snacks,12-05-2025,1,2.90,2.90,Premium Shopper,Downtown,Mobile
+T00155,C021,P011,Butter,Dairy,07/08/2025,4,3.80,15.20,Family,Westgate,Card
+T00113,C034,P041,Ice Cream,Frozen,05-06-2025,3,4.60,13.80,Budget Shopper,Riverside,Cash
+T00029,C042,P030,Pretzels,Snacks,2025-02-17,3,2.30,6.90,Student,Hilltop,Card
+T00164,C008,P037,Canned Beans,Pantry,2025-07-10,2,1.10,2.20,Budget Shopper,Riverside,Card
+T00063,C042,P011,Butter,Dairy,2025-04-28,1,3.80,3.80,Student,Eastpark,Mobile
+T00248,C004,P035,Sugar,Pantry,11/22/2025,3,2.10,6.30,Young Singles,Riverside,Card
+T00229,C057,P007,Avocado,Produce,2025-10-13,1,1.50,1.50,Student,Hilltop,Mobile
+T00009,C043,P017,Chicken Breast,Meat,2025-01-01,2,6.50,13.00,Student,Eastpark,Card
+T00158,C040,P022,Sparkling Water,Beverages,2025-07-21,2,1.10,2.20,Premium Shopper,Downtown,Cash
+T00025,C017,P023,Coffee Beans,beverages,02/14/2025,1,$8.90,$8.90,Senior,Downtown,Cash
+T00133,C038,P025,Energy Drink,Beverages,2025-06-18,1,2.20,2.20,Student,Riverside,Cash
+T00036,C020,P040,Frozen Pizza,Frozen,2025-02-15,2,5.20,10.40,Budget Shopper,Eastpark,Voucher
+T00060,C017,P032,Pasta Sauce,Pantry,2025-04-06,1,2.70,2.70,Senior,Downtown,Card
+T00047,C055,P003,Tomatoes,Produce,2025-03-22,5,1.80,9.00,Student,Eastpark,Card
+T00108,C035,P047,Trash Bags,Household,2025-06-10,3,4.10,12.30,Senior,Downtown,Mobile
+T00150,C010,P020,Cola,Beverages,2025-07-21,1,1.60,1.60,Family,Westgate,Card
+T00303,C057,P028,Cookies,Snacks,2025-12-12,1,2.90,2.90,Student,Downtown,Mobile
+T00134,C016,P027,Chocolate Bar,Snacks,06/16/2025,1,1.30,1.30,Young Singles,Riverside,Card
+T00070,C006,P027,Chocolate Bar,Snacks,2025-04-22,2,1.30,2.60,Premium Shopper,Hilltop,Card
+T00300,C015,P020,Cola,Beverages,2025-12-01,3,1.60,4.80,Premium Shopper,Downtown,Card
+T00220,C053,P043,Frozen Fries,Frozen,2025-10-17,2,3.00,6.00,Senior,Eastpark,Card
+T00048,C056,P021,Orange Juice,Beverages,2025-03-23,1,3.40,3.40,Premium Shopper,Downtown,Card
+T00032,C019,P035,Sugar,Pantry,2025-02-03,1,2.10,2.10,Young Singles,Riverside,Card
+T00294,C031,P006,Carrots,Produce,12/29/2025,1,0.85,0.85,Student,Eastpark,Card
+T00197,C052,P025,Energy Drink,Beverages,29-09-2025,,2.20,4.40,Young Singles,Eastpark,Card
+T00086,C059,P029,Popcorn,Snacks,2025-05-10,1,2.00,2.00,Budget Shopper,Westgate,Mobile
+T00051,C037,P023,Coffee Beans,Beverages,03/01/2025,2,8.90,17.80,Young Singles,Downtown,Voucher
+T00044,C018,P010,Greek Yogurt,Dairy,2025-03-17,,3.20,3.20,Young Singles,Downtown,Card
+T00313,C021,P041,Ice Cream,Frozen,2025-12-29,1,4.60,4.60,Family,Eastpark,Voucher
+T00017,C042,P023,Coffee Beans,Beverages,2025-01-20,2,8.90,17.80,Student,Hilltop,Cash
+T00215,C051,P007,Avocado,Produce,09/27/2025,2,1.50,3.00,Young Singles,Hilltop,Card
+T00304,C016,P010,Greek Yogurt,Dairy,2025-12-26,1,3.20,3.20,Young Singles,Downtown,Voucher
+T00111,C058,P047,Trash Bags,Household,2025-06-26,3,4.10,12.30,Family,Downtown,Cash
+T00117,C007,P009,Cheddar Cheese,Dairy,2025-06-02,2,4.50,9.00,Family,Westgate,Card
+T00274,C034,P035,Sugar,Pantry,2025-11-19,1,2.10,2.10,Budget Shopper,Downtown,Cash
+T00129,C026,P020,Cola,beverages,18-06-2025,3,1.60,4.80,Family,Eastpark,Card
+T00273,C024,P031,Pasta,Pantry,2025-11-14,1,1.50,1.50,Student,Downtown,Mobile
+T00063,C042,P030,Pretzels,Snacks,2025-04-28,1,2.30,2.30,Student,Eastpark,Mobile
+T00109,C026,P003,Tomatoes,Produce,2025-06-04,3,1.80,5.40,Family,Hilltop,Mobile
+T00124,C031,P020,Cola,Beverages,05-06-2025,2,1.60,3.20,Student,Riverside,Cash
+T00210,C038,P044,Paper Towels,Household,09/25/2025,1,$5.50,$5.50,Student,Riverside,Cash
+T00037,C019,P044,Paper Towels,Household,03/16/2025,3,5.50,16.50,Young Singles,Downtown,Card
+T00273,C024,P040,Frozen Pizza,Frozen,2025-11-14,1,5.20,5.20,Student,Downtown,Mobile
+T00301,C058,P046,Laundry Detergent,Household,12/07/2025,1,9.40,9.40,Family,Hilltop,Mobile
+T00111,C058,P038,Peanut Butter,Pantry,2025-06-26,1,3.50,3.50,Family,Downtown,Cash
+T00277,C060,P020,Cola,Beverages,2025-12-13,3,1.60,4.80,Student,Westgate,Cash
+T00044,C018,P043,Frozen Fries,Frozen,2025-03-17,2,3.00,6.00,Young Singles,Downtown,Card
+T00237,C042,P047,Trash Bags,Household,10/09/2025,2,4.10,8.20,Student,Hilltop,Card
+T00105,C009,P008,Whole Milk,Dairy,2025-05-13,1,2.10,2.10,Senior,Hilltop,Cash
+T00253,C040,P008,Whole Milk,Dairy,2025-11-25,1,2.10,2.10,Premium Shopper,Eastpark,Cash
+T00017,C042,P031,Pasta,Pantry,2025-01-20,2,1.50,3.00,Student,Hilltop,Cash
+T00249,C025,P001,Bananas,Produce,11/30/2025,3,0.59,1.77,Budget Shopper,Westgate,Card
+T00268,C056,P035,Sugar,Pantry,2025-11-27,1,2.10,,Premium Shopper,Hilltop,Cash
+T00036,C020,P014,Whole Wheat Bread,Bakery,2025-02-15,1,2.40,2.40,Budget Shopper,Eastpark,Voucher
+T00121,C019,P026,Potato Chips,Snacks,2025-06-26,1,$2.50,$2.50,Young Singles,Eastpark,Mobile
+T00144,C025,P011,Butter,Dairy,2025-07-13,1,3.80,3.80,Budget Shopper,Westgate,Cash
+T00204,C005,P046,Laundry Detergent,Household,2025-09-24,2,9.40,18.80,Young Singles,Riverside,Card
+T00275,C035,P036,Olive Oil,Pantry,2025-11-28,2,7.80,15.60,Senior,Westgate,Cash
+T00282,C019,P036,Olive Oil,Pantry,12/08/2025,3,7.80,23.40,Young Singles,Downtown,Card
+T00035,C053,P010,Greek Yogurt,Dairy,2025-02-04,2,$3.20,$6.40,Senior,Downtown,Card
+T00003,C028,P026,Potato Chips,Snacks ,01/12/2025,3,2.50,7.50,Budget Shopper,Westgate,Cash
+T00277,C060,P040,Frozen Pizza,Frozen,2025-12-13,3,5.20,15.60,Student,Westgate,Cash
+T00031,C023,P034,Cereal,Pantry,02/07/2025,1,3.90,3.90,Premium Shopper,Hilltop,Card
+T00007,C005,P039,Jam,Pantry,01/06/2025,2,2.80,5.60,Young Singles,Eastpark,Card
+T00236,C031,P047,Trash Bags,Household ,2025-10-19,4,4.10,16.40,Student,Eastpark,Mobile
+T00012,C036,P035,Sugar,Pantry,01/25/2025,1,2.10,2.10,Premium Shopper,Westgate,Voucher
+T00058,C018,P042,Frozen Vegetables,Frozen,13-03-2025,3,2.40,7.20,Young Singles,Riverside,Voucher
+T00030,C050,P018,Ground Beef,Meat,02/18/2025,4,7.20,,Premium Shopper,Westgate,Cash
+T00246,C039,P014,Whole Wheat Bread,Bakery,11/14/2025,2,2.40,4.80,Budget Shopper,Eastpark,Card
+T00230,C041,P040,Frozen Pizza,Frozen,2025-10-22,,5.20,5.20,Young Singles,Downtown,Card
+T00152,C025,P008,Whole Milk,DAIRY,2025-07-14,2,2.10,4.20,,Downtown,Mobile
+T00234,C021,P001,  Bananas ,Produce,2025-10-22,1,0.59,0.59,Family,Westgate,Mobile
+T00132,C037,P010,Greek Yogurt,Dairy,06/11/2025,1,3.20,3.20,Young Singles,Eastpark,Mobile
+T00135,C018,P014,Whole Wheat Bread,Bakery ,2025-06-02,5,2.40,12.00,Young Singles,Westgate,Mobile
+T00147,C003,P046,Laundry Detergent,Household,2025-07-22,1,9.40,9.40,Student,Riverside,Voucher
+T00003,C028,P007,Avocado,Produce,01/12/2025,1,1.50,1.50,Budget Shopper,Westgate,Cash
+T00147,C003,P039,Jam,Pantry,2025-07-22,5,2.80,14.00,Student,Riverside,Voucher
+T00248,C004,P017,Chicken Breast,Meat,11/22/2025,2,6.50,13.00,Young Singles,Riverside,Card
+T00106,C040,P037,Canned Beans,Pantry,05/28/2025,1,1.10,1.10,Premium Shopper,Westgate,Card
+T00234,C021,P003,Tomatoes,Produce,2025-10-22,1,1.80,1.80,Family,Westgate,Mobile
+T00207,C014,P016,Croissant,Bakery,2025-09-11,3,3.10,9.30,Senior,Riverside,Card
+T00204,C005,P043,Frozen Fries,Frozen,2025-09-24,1,$3.00,$3.00,Young Singles,Riverside,Card
+T00037,C019,P015,Bagels,Bakery,03/16/2025,2,2.80,5.60,Young Singles,Downtown,Card
+T00084,C031,P008,Whole Milk,Dairy,2025-05-21,1,$2.10,$2.10,Student,Hilltop,Cash
+T00263,C009,P032,Pasta Sauce,Pantry,2025-11-12,1,2.70,2.70,Senior,Hilltop,Mobile
+T00205,C025,P032,Pasta Sauce,Pantry,02-09-2025,1,2.70,2.70,Budget Shopper,Westgate,Mobile
+T00121,C019,P033,Rice,Pantry,2025-06-26,1,4.20,4.20,Young Singles,Eastpark,Mobile
+T00023,C025,P048,Shampoo,Personal Care,2025-02-19,1,4.80,4.80,Budget Shopper,Westgate,Card
+T00222,C053,P041,Ice Cream,Frozen,10/19/2025,3,4.60,13.80,,Riverside,Card
+T00155,C021,P037,Canned Beans,Pantry,07/08/2025,2,1.10,2.20,Family,Westgate,Card
+T00023,C025,P039,Jam,Pantry,2025-02-19,,2.80,8.40,Budget Shopper,Westgate,Card
+T00013,C053,P015,Bagels,Bakery,01/07/2025,2,2.80,5.60,Senior,Westgate,Card
+T00005,C001,P045,Dish Soap,Household,01/13/2025,1,2.90,2.90,Student,Westgate,Card
+T00172,C030,P025,Energy Drink,Beverages,08/24/2025,3,2.20,6.60,Family,Hilltop,Mobile
+T00031,C023,P036,Olive Oil,Pantry,02/07/2025,2,7.80,15.60,Premium Shopper,Hilltop,Card
+T00007,C005,P023,Coffee Beans,Beverages,01/06/2025,2,8.90,17.80,Young Singles,Eastpark,Card
+T00158,C040,P020,Cola,Beverages,2025-07-21,1,1.60,1.60,Premium Shopper,Downtown,Cash
+T00079,C007,P043,Frozen Fries,Frozen,2025-04-11,4,3.00,12.00,Family,Eastpark,Mobile
+T00131,C039,P014,Whole Wheat Bread,Bakery,2025-06-15,3,2.40,7.20,Budget Shopper,Downtown,Card
+T00005,C001,P028,Cookies,Snacks,01/13/2025,5,2.90,14.50,Student,Westgate,Card
+T00204,C005,P006,Carrots,Produce,2025-09-24,2,0.85,1.70,Young Singles,Riverside,Card
+T00207,C014,P020,Cola,BEVERAGES,2025-09-11,2,1.60,3.20,Senior,Riverside,Card
+T00205,C025,P035,Sugar,Pantry,02-09-2025,2,2.10,4.20,Budget Shopper,Westgate,Mobile
+T00101,C060,P036,Olive Oil,Pantry,11-05-2025,1,7.80,7.80,Student,Riverside,Card
+T00221,C056,P011,Butter,Dairy,10/11/2025,1,3.80,3.80,Premium Shopper,Hilltop,Card
+T00273,C024,P023,Coffee Beans,Beverages,2025-11-14,1,8.90,8.90,Student,Downtown,Mobile
+T00191,C008,P030,Pretzels,Snacks,08/14/2025,1,2.30,2.30,Budget Shopper,Eastpark,Card
+T00181,C018,P022,Sparkling Water,Beverages,2025-08-05,2,1.10,2.20,Young Singles,Downtown,Card
+T00148,C007,P026,Potato Chips,Snacks,2025-07-02,2,2.50,5.00,Family,Westgate,Card
+T00078,C006,P011,Butter,dairy,2025-04-23,2,3.80,7.60,Premium Shopper,Eastpark,Mobile
+T00245,C012,P021,Orange Juice,Beverages,2025-11-19,3,3.40,10.20,Young Singles,Riverside,Card
+T00175,C007,P022,Sparkling Water,Beverages,2025-08-23,1,1.10,1.10,Family,Downtown,Card
+T00074,C050,P010,Greek Yogurt,Dairy,29-04-2025,2,3.20,6.40,Premium Shopper,Hilltop,Card
+T00126,C029,P029,Popcorn,Snacks,06/17/2025,3,2.00,6.00,Premium Shopper,Downtown,Mobile
+T00274,C034,P035,Sugar,Pantry,2025-11-19,1,2.10,2.10,Budget Shopper,Downtown,Cash
+T00090,C023,P044,Paper Towels,Household,2025-05-02,1,5.50,5.50,Premium Shopper,Eastpark,Card
+T00002,C041,P018,Ground Beef,Meat,23-01-2025,2,7.20,14.40,Young Singles,Downtown,Card
+T00268,C056,P023,Coffee Beans,Beverages,2025-11-27,1,8.90,8.90,Premium Shopper,Hilltop,Cash
+T00117,C007,P001,Bananas,Produce,2025-06-02,3,0.59,1.77,Family,Westgate,Card
+T00104,C004,P010,Greek Yogurt,Dairy,2025-05-23,3,3.20,9.60,Young Singles,Riverside,Card
+T00087,C004,P008,Whole Milk,Dairy,05/04/2025,2,2.10,4.20,Young Singles,Riverside,Card
+T00123,C008,P025,Energy Drink,Beverages,2025-06-22,2,2.20,4.40,Budget Shopper,Westgate,Card
+T00134,C016,P036,Olive Oil,PANTRY,06/16/2025,1,7.80,7.80,Young Singles,Riverside,Card
+T00172,C030,P028,Cookies,Snacks,08/24/2025,1,2.90,2.90,Family,Hilltop,Mobile
+T00016,C040,P019,Bacon,Meat,2025-01-06,1,5.40,5.40,Premium Shopper,Eastpark,Card
+T00122,C018,P042,Frozen Vegetables,Frozen,06/25/2025,1,$2.40,$2.40,Young Singles,Hilltop,Card
+T00152,C025,P011,Butter,Dairy,2025-07-14,1,$3.80,$3.80,Budget Shopper,Downtown,Mobile
+T00314,C017,P003,Tomatoes,Produce,2025-12-24,1,$1.80,$1.80,Senior,Hilltop,Voucher
+T00129,C026,P002,Apples,Produce,18-06-2025,2,1.20,2.40,Family,Eastpark,Card
+T00306,C023,P036,Olive Oil,Pantry,2025-12-13,2,7.80,15.60,Premium Shopper,Riverside,Card
+T00131,C039,P035,Sugar,Pantry,2025-06-15,2,2.10,4.20,Budget Shopper,Downtown,Card
+T00236,C031,P044,  Paper Towels ,Household,2025-10-19,5,5.50,27.50,Student,Eastpark,Mobile
+T00080,C020,P034,Cereal,Pantry,04/03/2025,1,3.90,3.90,Budget Shopper,Eastpark,Card
+T00181,C018,P010,Greek Yogurt,Dairy,2025-08-05,2,3.20,6.40,Young Singles,Downtown,Card
+T00292,C041,P040,Frozen Pizza,Frozen,2025-12-06,2,5.20,10.40,Young Singles,Hilltop,Card
+T00043,C054,P013,White Bread,Bakery,2025-03-14,1,1.90,1.90,Premium Shopper,Westgate,Voucher
+T00031,C023,P001,Bananas,Produce,02/07/2025,,0.59,1.18,Premium Shopper,Hilltop,Card
+T00133,C038,P023,Coffee Beans,Beverages,2025-06-18,1,8.90,8.90,Student,Riverside,Cash
+T00226,C006,P031,Pasta,Pantry,2025-10-25,4,1.50,6.00,Premium Shopper,Riverside,Cash
+T00056,C045,P027,  Chocolate Bar ,Snacks,03/24/2025,1,1.30,1.30,Student,Eastpark,Card
+T00215,C051,P044,Paper Towels,Household,09/27/2025,1,5.50,5.50,Young Singles,Hilltop,Card
+T00003,C028,P004,Lettuce,Produce,01/12/2025,2,1.40,2.80,Budget Shopper,Westgate,Cash
+T00071,C004,P042,Frozen Vegetables,Frozen,20-04-2025,2,2.40,4.80,Young Singles,Downtown,Card
+T00113,C034,P021,  Orange Juice ,Beverages,05-06-2025,1,3.40,3.40,Budget Shopper,Riverside,Cash
+T00270,C058,P039,Jam,Pantry,2025-11-02,1,$2.80,$2.80,Family,Eastpark,Card
+T00048,C056,P035,Sugar,Pantry,2025-03-23,2,2.10,4.20,Premium Shopper,Downtown,Card
+T00052,C038,P048,Shampoo,Personal Care,2025-03-02,2,4.80,9.60,Student,Hilltop,Mobile
+T00079,C007,P039,Jam,Pantry,2025-04-11,1,2.80,,Family,Eastpark,Mobile
+T00101,C060,P006,Carrots,Produce,11-05-2025,1,0.85,0.85,Student,Riverside,Card
+T00289,C017,P011,Butter,Dairy,2025-12-10,1,$3.80,$3.80,Senior,Eastpark,Mobile
+T00269,C052,P014,Whole Wheat Bread,Bakery,2025-11-14,1,2.40,2.40,Young Singles,Hilltop,Mobile
+T00134,C016,P041,Ice Cream,Frozen,06/16/2025,1,4.60,4.60,Young Singles,Riverside,Card
+T00063,C042,P015,Bagels,Bakery,2025-04-28,1,2.80,2.80,Student,Eastpark,Mobile
+T00300,C015,P020,Cola,Beverages,2025-12-01,3,1.60,4.80,Premium Shopper,Downtown,Card
+T00218,C039,P035,Sugar,pantry,10/16/2025,1,2.10,2.10,Budget Shopper,Westgate,Card
+T00180,C044,P038,Peanut Butter,Pantry,18-08-2025,1,3.50,,Budget Shopper,Riverside,Mobile
+T00265,C019,P033,Rice,Pantry,2025-11-28,3,4.20,12.60,Young Singles,Riverside,Cash
+T00161,C036,P041,Ice Cream,Frozen,2025-07-11,2,4.60,9.20,Premium Shopper,Westgate,Voucher
+T00028,C026,P020,Cola,Beverages,2025-02-13,1,1.60,1.60,Family,Riverside,Card
+T00224,C008,P011,Butter,Dairy,2025-10-28,1,3.80,3.80,Budget Shopper,Westgate,Card
+T00038,C010,P019,  Bacon ,Meat,03/27/2025,2,5.40,10.80,Family,Downtown,Card
+T00094,C029,P037,Canned Beans,Pantry,2025-05-26,3,1.10,3.30,Premium Shopper,Downtown,Card
+T00194,C042,P005,  Onions ,Produce,2025-09-21,4,0.90,3.60,Student,Downtown,Cash
+T00305,C045,P023,  Coffee Beans ,Beverages,2025-12-05,1,8.90,8.90,Student,Eastpark,Mobile
+T00022,C009,P027,Chocolate Bar,SNACKS,2025-02-03,2,1.30,2.60,Senior,Riverside,Card
+T00011,C045,P028,Cookies,Snacks,01/29/2025,1,$2.90,$2.90,Student,Riverside,Cash
+T00029,C042,P024,Tea Bags,Beverages,2025-02-17,1,3.60,3.60,Student,Hilltop,Card
+T00247,C046,P046,Laundry Detergent,Household,2025-11-11,3,9.40,28.20,Premium Shopper,Downtown,Mobile
+T00205,C025,P007,Avocado,Produce,02-09-2025,3,1.50,4.50,Budget Shopper,Westgate,Mobile
+T00295,C009,P040,Frozen Pizza,Frozen,2025-12-05,2,5.20,10.40,Senior,Eastpark,Mobile
+T00168,C056,P022,Sparkling Water,Beverages,2025-08-15,5,1.10,5.50,Premium Shopper,Downtown,Mobile
+T00053,C033,P019,Bacon,Meat,2025-03-17,2,5.40,10.80,Premium Shopper,Hilltop,Mobile
+T00074,C050,P016,Croissant,Bakery,29-04-2025,3,3.10,9.30,Premium Shopper,Hilltop,Card
+T00046,C003,P007,Avocado,PRODUCE,2025-03-16,5,1.50,7.50,Student,Riverside,Cash
+T00078,C006,P029,Popcorn,Snacks,2025-04-23,1,2.00,2.00,Premium Shopper,Eastpark,Mobile
+T00199,C055,P038,Peanut Butter,Pantry,09/19/2025,2,3.50,7.00,Student,Westgate,Card
+T00275,C035,P035,Sugar,Pantry,2025-11-28,1,2.10,2.10,Senior,Westgate,Cash
+T00105,C009,P018,Ground Beef,Meat,2025-05-13,1,7.20,7.20,Senior,Hilltop,Cash
+T00302,C013,P031,Pasta,Pantry ,2025-12-02,2,1.50,,Senior,Westgate,Mobile
+T00077,C006,P048,Shampoo,Personal Care,2025-04-28,2,4.80,9.60,Premium Shopper,Eastpark,Cash
+T00258,C038,P019,Bacon,Meat,2025-11-24,3,5.40,16.20,Student,Downtown,Mobile
+T00251,C017,P021,Orange Juice,Beverages,11/28/2025,2,3.40,6.80,Senior,Downtown,Card
+T00032,C019,P008,Whole Milk,Dairy,2025-02-03,1,2.10,2.10,Young Singles,Riverside,Card
+T00271,C033,P002,Apples,Produce ,2025-11-22,2,1.20,2.40,Premium Shopper,Hilltop,Card
+T00068,C018,P037,Canned Beans,Pantry,2025-04-06,3,1.10,3.30,Young Singles,Hilltop,Voucher
+T00028,C026,P045,Dish Soap,Household,2025-02-13,3,2.90,8.70,Family,Riverside,Card
+T00315,C021,P036,Olive Oil,Pantry,28-12-2025,,7.80,7.80,,Downtown,Mobile
+T00120,C055,P011,Butter,Dairy,2025-06-05,1,3.80,3.80,Student,Eastpark,Cash
+T00053,C033,P031,Pasta,Pantry,2025-03-17,3,1.50,4.50,Premium Shopper,Hilltop,Mobile
+T00262,C043,P024,Tea Bags,Beverages,2025-11-20,2,3.60,7.20,Student,Hilltop,Mobile
+T00179,C004,P034,Cereal,Pantry,2025-08-21,1,$3.90,$3.90,Young Singles,Riverside,Cash
+T00128,C047,P006,Carrots,Produce,06/21/2025,1,0.85,0.85,Young Singles,Westgate,Card
+T00091,C031,P004,Lettuce,Produce,2025-05-18,1,1.40,1.40,Student,Hilltop,Card
+T00201,C022,P021,Orange Juice,Beverages,2025-09-01,3,3.40,10.20,Student,Eastpark,Card
+T00183,C017,P050,Hand Soap,PERSONAL CARE,08/24/2025,1,2.20,2.20,Senior,Riverside,Card
+T00007,C005,P035,Sugar,Pantry,01/06/2025,4,2.10,8.40,Young Singles,Eastpark,Card
+T00254,C008,P034,Cereal,Pantry,11/26/2025,1,3.90,3.90,Budget Shopper,Westgate,Card
+T00169,C018,P041,Ice Cream,Frozen,2025-08-19,3,4.60,13.80,Young Singles,Eastpark,Voucher
+T00246,C039,P048,Shampoo,Personal Care,11/14/2025,2,4.80,9.60,Budget Shopper,Eastpark,Card
+T00296,C041,P020,Cola,Beverages,2025-12-17,1,1.60,1.60,Young Singles,Eastpark,Card
+T00056,C045,P042,Frozen Vegetables,Frozen,03/24/2025,1,2.40,2.40,Student,Eastpark,Card
+T00127,C020,P028,Cookies,Snacks,06/26/2025,1,2.90,2.90,Budget Shopper,Downtown,Card
+T00167,C053,P028,Cookies,Snacks,08/18/2025,1,2.90,2.90,Senior,Hilltop,Cash
+T00308,C055,P043,Frozen Fries,Frozen,2025-12-20,2,3.00,6.00,Student,Hilltop,Mobile
+T00219,C018,P044,Paper Towels,Household,10/07/2025,3,5.50,16.50,Young Singles,Westgate,Cash
+T00055,C041,P020,Cola,Beverages ,2025-03-03,5,1.60,8.00,Young Singles,Westgate,Voucher
+T00158,C040,P049,Toothpaste,personal care,2025-07-21,1,2.70,2.70,Premium Shopper,Downtown,Cash
+T00088,C016,P024,Tea Bags,Beverages,2025-05-12,5,3.60,18.00,Young Singles,Eastpark,Card
+T00116,C014,P018,Ground Beef,Meat,2025-06-16,2,7.20,14.40,Senior,Riverside,Mobile
+T00216,C024,P026,Potato Chips,Snacks,2025-09-28,1,2.50,2.50,Student,Downtown,Cash
+T00189,C058,P038,Peanut Butter,Pantry,08/08/2025,1,3.50,3.50,Family,Eastpark,Card
+T00047,C055,P049,Toothpaste,Personal Care,2025-03-22,2,2.70,5.40,Student,Eastpark,Card
+T00224,C008,P013,White Bread,Bakery,2025-10-28,1,1.90,1.90,Budget Shopper,Westgate,Card
+T00279,C048,P020,Cola,Beverages,2025-12-01,1,1.60,1.60,Student,Downtown,Voucher
+T00241,C024,P020,Cola,BEVERAGES,10/11/2025,2,1.60,3.20,Student,Downtown,Mobile
+T00261,C005,P035,Sugar,Pantry ,11/22/2025,2,2.10,4.20,Young Singles,Hilltop,Card
+T00258,C038,P007,Avocado,Produce,2025-11-24,4,1.50,6.00,Student,Downtown,Mobile
+T00221,C056,P020,Cola,Beverages,10/11/2025,4,1.60,6.40,Premium Shopper,Hilltop,Card
+T00008,C009,P005,Onions,Produce,13-01-2025,5,$0.90,$4.50,Senior,Hilltop,Cash
+T00127,C020,P039,Jam,Pantry,06/26/2025,4,2.80,11.20,Budget Shopper,Downtown,Card
+T00159,C030,P020,Cola,Beverages,2025-07-13,1,1.60,1.60,Family,Eastpark,Mobile
+T00115,C045,P047,Trash Bags,Household,2025-06-07,1,4.10,4.10,,Westgate,Card
+T00061,C056,P031,Pasta,Pantry ,2025-04-30,1,1.50,1.50,Premium Shopper,Eastpark,Card
+T00299,C012,P018,Ground Beef,Meat,2025-12-03,1,7.20,7.20,Young Singles,Riverside,Card
+T00228,C057,P026,Potato Chips,Snacks,14-10-2025,1,2.50,2.50,Student,Riverside,Card
+T00198,C002,P004,Lettuce,Produce,2025-09-06,3,1.40,4.20,Family,Hilltop,Cash
+T00036,C020,P007,Avocado,Produce,2025-02-15,1,1.50,1.50,Budget Shopper,Eastpark,Voucher
+T00039,C021,P037,Canned Beans,Pantry,2025-03-24,5,1.10,5.50,Family,Eastpark,Card
+T00268,C056,P011,Butter,Dairy,2025-11-27,1,3.80,3.80,Premium Shopper,Hilltop,Cash
+T00074,C050,P017,Chicken Breast,Meat,29-04-2025,1,6.50,6.50,Premium Shopper,Hilltop,Card
+T00104,C004,P039,Jam,Pantry,2025-05-23,1,2.80,2.80,Young Singles,Riverside,Card
+T00287,C012,P022,Sparkling Water,Beverages,2025-12-09,1,1.10,1.10,Young Singles,Eastpark,Card
+T00073,C041,P011,Butter,Dairy,2025-04-23,3,3.80,11.40,Young Singles,Westgate,Card
+T00184,C011,P008,Whole Milk,Dairy,08/19/2025,1,2.10,2.10,Senior,Hilltop,Card
+T00004,C029,P001,Bananas,produce,2025-01-03,1,0.59,0.59,Premium Shopper,Eastpark,Card
+T00123,C008,P046,Laundry Detergent,Household,2025-06-22,3,9.40,28.20,Budget Shopper,Westgate,Card
+T00008,C009,P040,Frozen Pizza,Frozen,13-01-2025,1,5.20,5.20,Senior,Hilltop,Cash
+T00024,C030,P038,Peanut Butter,Pantry,2025-02-27,1,3.50,3.50,Family,Riverside,Voucher
+T00309,C003,P011,Butter,Dairy,2025-12-03,2,3.80,7.60,Student,Riverside,Card
+T00294,C031,P007,Avocado,Produce,12/29/2025,1,1.50,1.50,Student,Eastpark,Card
+T00168,C056,P011,Butter,Dairy,2025-08-15,3,3.80,11.40,Premium Shopper,Downtown,Mobile
+T00118,C042,P047,Trash Bags,Household,2025-06-10,3,4.10,12.30,Student,Downtown,Mobile
+T00006,C048,P031,Pasta,PANTRY,2025-01-19,5,1.50,7.50,Student,Eastpark,Card
+T00024,C030,P042,Frozen Vegetables,Frozen,2025-02-27,1,2.40,2.40,Family,Riverside,Voucher
+T00239,C004,P016,Croissant,Bakery,2025-10-09,1,3.10,,Young Singles,Eastpark,Card
+T00258,C038,P049,Toothpaste,personal care,2025-11-24,3,2.70,8.10,Student,Downtown,Mobile
+T00049,C030,P019,  Bacon ,Meat,03/09/2025,2,5.40,10.80,Family,Hilltop,Mobile
+T00059,C015,P035,Sugar,Pantry,04/28/2025,1,2.10,2.10,Premium Shopper,Hilltop,Mobile
+T00308,C055,P040,Frozen Pizza,Frozen,2025-12-20,1,5.20,5.20,Student,Hilltop,Mobile
+T00201,C022,P010,Greek Yogurt,Dairy,2025-09-01,2,3.20,6.40,Student,Eastpark,Card
+T00077,C006,P029,Popcorn,Snacks,2025-04-28,2,2.00,4.00,Premium Shopper,Eastpark,Cash
+T00183,C017,P008,Whole Milk,Dairy,08/24/2025,1,2.10,2.10,Senior,Riverside,Card
+T00070,C006,P018,Ground Beef,Meat,2025-04-22,1,7.20,7.20,Premium Shopper,Hilltop,Card
+T00207,C014,P004,Lettuce,produce,2025-09-11,2,1.40,2.80,Senior,Riverside,Card
+T00079,C007,P022,Sparkling Water,Beverages,2025-04-11,1,1.10,1.10,Family,Eastpark,Mobile
+T00218,C039,P023,Coffee Beans,Beverages,10/16/2025,1,8.90,8.90,Budget Shopper,Westgate,Card
+T00115,C045,P008,Whole Milk,Dairy,2025-06-07,2,2.10,4.20,Student,Westgate,Card
+T00203,C037,P012,Eggs,Dairy,09/23/2025,4,2.60,10.40,Young Singles,Westgate,Mobile
+T00296,C041,P035,Sugar,pantry,2025-12-17,1,2.10,2.10,Young Singles,Eastpark,Card
+T00137,C033,P021,Orange Juice,beverages,07/12/2025,3,3.40,10.20,Premium Shopper,Westgate,Cash
+T00070,C006,P014,Whole Wheat Bread,Bakery,2025-04-22,2,2.40,4.80,Premium Shopper,Hilltop,Card
+T00035,C053,P004,Lettuce,Produce,2025-02-04,3,1.40,4.20,Senior,Downtown,Card
+T00266,C012,P015,Bagels,Bakery,2025-11-06,1,2.80,2.80,Young Singles,Eastpark,Voucher
+T00078,C006,P008,Whole Milk,Dairy,2025-04-23,1,2.10,2.10,,Eastpark,Mobile
+T00111,C058,P050,Hand Soap,Personal Care,2025-06-26,2,2.20,4.40,Family,Downtown,Cash
+T00159,C030,P006,Carrots,Produce,2025-07-13,1,0.85,0.85,Family,Eastpark,Mobile
+T00216,C024,P020,Cola,Beverages,2025-09-28,3,1.60,4.80,Student,Downtown,Cash
+T00039,C021,P003,Tomatoes,Produce,2025-03-24,1,1.80,1.80,Family,Eastpark,Card
+T00304,C016,P024,Tea Bags,Beverages,2025-12-26,1,3.60,3.60,Young Singles,Downtown,Voucher
+T00244,C038,P001,Bananas,Produce,2025-11-22,2,0.59,1.18,Student,Downtown,Mobile
+T00277,C060,P039,Jam,Pantry,2025-12-13,2,$2.80,$5.60,Student,Westgate,Cash
+T00182,C042,P022,Sparkling Water,Beverages,2025-08-22,1,1.10,1.10,Student,Downtown,Card
+T00314,C017,P019,Bacon,Meat,2025-12-24,2,5.40,10.80,Senior,Hilltop,Voucher
+T00202,C038,P042,Frozen Vegetables,Frozen,2025-09-13,2,2.40,4.80,Student,Downtown,Card
+T00051,C037,P019,Bacon,Meat,03/01/2025,1,5.40,5.40,Young Singles,Downtown,Voucher
+T00072,C026,P021,Orange Juice,Beverages,2025-04-03,2,3.40,6.80,Family,Downtown,Card
+T00290,C054,P024,Tea Bags,Beverages,2025-12-16,3,3.60,10.80,Premium Shopper,Downtown,Card
+T00199,C055,P048,Shampoo,Personal Care,09/19/2025,5,4.80,24.00,Student,Westgate,Card
+T00006,C048,P032,Pasta Sauce,Pantry,2025-01-19,3,$2.70,$8.10,Student,Eastpark,Card
+T00159,C030,P031,Pasta,Pantry,2025-07-13,2,1.50,3.00,Family,Eastpark,Mobile
+T00097,C052,P019,Bacon,Meat,05/03/2025,2,5.40,10.80,Young Singles,Hilltop,Mobile
+T00152,C025,P025,Energy Drink,BEVERAGES,2025-07-14,2,2.20,4.40,Budget Shopper,Downtown,Mobile
+T00183,C017,P041,Ice Cream,Frozen,08/24/2025,2,4.60,9.20,Senior,Riverside,Card
+T00227,C044,P023,Coffee Beans,Beverages,2025-10-01,4,8.90,35.60,Budget Shopper,Downtown,Cash
+T00265,C019,P043,Frozen Fries,Frozen,2025-11-28,1,3.00,3.00,Young Singles,Riverside,Cash
+T00282,C019,P031,Pasta,Pantry,12/08/2025,1,1.50,1.50,Young Singles,Downtown,Card
+T00074,C050,P042,Frozen Vegetables,Frozen,29-04-2025,2,2.40,4.80,Premium Shopper,Hilltop,Card
+T00121,C019,P041,Ice Cream,Frozen,2025-06-26,1,4.60,4.60,Young Singles,Eastpark,Mobile
+T00301,C058,P050,Hand Soap,Personal Care,12/07/2025,1,2.20,2.20,Family,Hilltop,Mobile
+T00184,C011,P015,Bagels,Bakery,08/19/2025,1,2.80,2.80,Senior,Hilltop,Card
+T00095,C018,P034,Cereal,Pantry,2025-05-21,2,3.90,7.80,Young Singles,Riverside,Voucher
+T00163,C026,P044,Paper Towels,Household,2025-07-20,2,5.50,11.00,Family,Eastpark,Card
+T00157,C026,P041,Ice Cream,Frozen,19-07-2025,1,4.60,4.60,Family,Eastpark,Cash
+T00232,C008,P033,Rice,Pantry,2025-10-30,1,4.20,4.20,Budget Shopper,Eastpark,Mobile
+T00240,C042,P006,Carrots,Produce,2025-10-24,4,0.85,3.40,,Downtown,Card
+T00065,C036,P023,Coffee Beans,Beverages,2025-04-05,1,$8.90,$8.90,,Downtown,Cash
+T00311,C005,P011,Butter,Dairy,2025-12-10,3,3.80,11.40,Young Singles,Riverside,Voucher
+T00097,C052,P011,Butter,Dairy ,05/03/2025,2,3.80,7.60,Young Singles,Hilltop,Mobile
+T00153,C030,P041,Ice Cream,Frozen,2025-07-07,1,4.60,4.60,Family,Downtown,Card
+T00066,C037,P007,Avocado,Produce,2025-04-04,2,1.50,3.00,Young Singles,Eastpark,Card
+T00265,C019,P001,Bananas,Produce,2025-11-28,5,0.59,2.95,Young Singles,Riverside,Cash
+T00222,C053,P023,Coffee Beans,Beverages,10/19/2025,1,8.90,8.90,Senior,Riverside,Card
+T00211,C029,P039,Jam,Pantry,2025-09-25,5,2.80,14.00,Premium Shopper,Riverside,Voucher
+T00247,C046,P044,Paper Towels,Household,2025-11-11,1,5.50,5.50,Premium Shopper,Downtown,Mobile
+T00067,C036,P043,Frozen Fries,Frozen,2025-04-28,3,3.00,9.00,Premium Shopper,Eastpark,Cash
+T00234,C021,P043,Frozen Fries,Frozen,2025-10-22,4,3.00,12.00,Family,Westgate,Mobile
+T00219,C018,P001,Bananas,Produce,10/07/2025,3,0.59,1.77,Young Singles,Westgate,Cash
+T00020,C045,P008,Whole Milk,Dairy,2025-02-26,4,2.10,8.40,Student,Eastpark,Cash
+T00279,C048,P036,Olive Oil,Pantry,2025-12-01,2,7.80,15.60,Student,Downtown,Voucher
+T00209,C017,P045,Dish Soap,Household,2025-09-15,3,2.90,8.70,Senior,Riverside,Mobile
+T00062,C059,P040,Frozen Pizza,Frozen,2025-04-23,1,5.20,5.20,Budget Shopper,Westgate,Card
+T00098,C051,P024,Tea Bags,BEVERAGES,2025-05-07,4,3.60,14.40,Young Singles,Riverside,Card
+T00248,C004,P023,Coffee Beans,Beverages,11/22/2025,3,8.90,26.70,Young Singles,Riverside,Card
+T00020,C045,P043,Frozen Fries,Frozen,2025-02-26,4,3.00,12.00,Student,Eastpark,Cash
+T00003,C028,P042,Frozen Vegetables,Frozen,01/12/2025,1,2.40,2.40,Budget Shopper,Westgate,Cash
+T00207,C014,P017,Chicken Breast,Meat,2025-09-11,1,6.50,6.50,Senior,Riverside,Card
+T00315,C021,P010,Greek Yogurt,Dairy,28-12-2025,1,3.20,3.20,Family,Downtown,Mobile
+T00248,C004,P042,Frozen Vegetables,Frozen ,11/22/2025,3,2.40,7.20,Young Singles,Riverside,Card
+T00019,C057,P016,Croissant,Bakery,2025-02-14,3,3.10,9.30,Student,Eastpark,Card
+T00018,C053,P002,Apples,Produce,2025-01-03,1,1.20,1.20,Senior,Riverside,Mobile
+T00202,C038,P028,Cookies,Snacks,2025-09-13,1,2.90,2.90,Student,Downtown,Card
+T00174,C060,P013,White Bread,Bakery,2025-08-04,1,1.90,1.90,Student,Riverside,Card
+T00022,C009,P035,Sugar,Pantry,2025-02-03,3,2.10,6.30,Senior,Riverside,Card
+T00199,C055,P016,Croissant,Bakery,09/19/2025,2,3.10,6.20,,Westgate,Card
+T00215,C051,P044,Paper Towels,Household,09/27/2025,1,5.50,5.50,Young Singles,Hilltop,Card
+T00180,C044,P017,Chicken Breast,Meat,18-08-2025,2,6.50,13.00,Budget Shopper,Riverside,Mobile
+T00134,C016,P020,Cola,Beverages,06/16/2025,1,1.60,1.60,Young Singles,Riverside,Card
+T00028,C026,P050,Hand Soap,Personal Care,2025-02-13,3,2.20,6.60,Family,Riverside,Card
+T00213,C037,P007,Avocado,Produce,05-09-2025,3,1.50,4.50,Young Singles,Eastpark,Cash
+T00191,C008,P006,Carrots,Produce,08/14/2025,3,0.85,2.55,Budget Shopper,Eastpark,Card
+T00244,C038,P009,Cheddar Cheese,dairy,2025-11-22,2,4.50,9.00,Student,Downtown,Mobile
+T00290,C054,P035,Sugar,Pantry ,2025-12-16,1,2.10,2.10,Premium Shopper,Downtown,Card
+T00278,C003,P018,Ground Beef,Meat,2025-12-22,1,7.20,7.20,Student,Hilltop,Card
+T00256,C056,P040,Frozen Pizza,Frozen,2025-11-07,3,5.20,15.60,,Westgate,Mobile
+T00118,C042,P035,Sugar,Pantry,2025-06-10,4,2.10,8.40,Student,Downtown,Mobile
+T00109,C026,P039,Jam,Pantry,2025-06-04,1,2.80,2.80,Family,Hilltop,Mobile
+T00133,C038,P043,Frozen Fries,Frozen,2025-06-18,3,3.00,9.00,Student,Riverside,Cash
+T00053,C033,P022,Sparkling Water,BEVERAGES,2025-03-17,2,1.10,2.20,Premium Shopper,Hilltop,Mobile
+T00137,C033,P049,Toothpaste,Personal Care,07/12/2025,1,2.70,2.70,Premium Shopper,Westgate,Cash
+T00119,C054,P025,Energy Drink,Beverages,2025-06-02,2,2.20,4.40,Premium Shopper,Westgate,Mobile
+T00286,C023,P045,Dish Soap,Household,12/17/2025,1,2.90,2.90,Premium Shopper,Westgate,Mobile
+T00055,C041,P009,Cheddar Cheese,Dairy,2025-03-03,1,4.50,4.50,Young Singles,Westgate,Voucher
+T00156,C055,P017,Chicken Breast,Meat,2025-07-27,1,6.50,6.50,Student,Westgate,Mobile
+T00157,C026,P035,Sugar,Pantry,19-07-2025,2,2.10,4.20,Family,Eastpark,Cash
+T00311,C005,P025,Energy Drink,Beverages,2025-12-10,2,2.20,4.40,Young Singles,Riverside,Voucher
+T00138,C027,P041,Ice Cream,Frozen,2025-07-24,2,4.60,9.20,Family,Hilltop,Card
+T00174,C060,P022,Sparkling Water,Beverages,2025-08-04,1,1.10,1.10,Student,Riverside,Card
+T00249,C025,P004,Lettuce,Produce,11/30/2025,2,1.40,2.80,Budget Shopper,Westgate,Card
+T00241,C024,P050,Hand Soap,Personal Care,10/11/2025,2,2.20,4.40,Student,Downtown,Mobile
+T00165,C011,P032,Pasta Sauce,Pantry,2025-08-18,2,2.70,5.40,Senior,Westgate,Card
+T00083,C052,P050,Hand Soap,Personal Care,2025-05-10,2,2.20,4.40,Young Singles,Westgate,Mobile
+T00108,C035,P035,Sugar,Pantry,2025-06-10,2,2.10,4.20,Senior,Downtown,Mobile
+T00129,C026,P030,Pretzels,Snacks,18-06-2025,1,2.30,2.30,Family,Eastpark,Card
+T00008,C009,P001,Bananas,Produce,13-01-2025,2,0.59,1.18,Senior,Hilltop,Cash
+T00093,C029,P028,Cookies,Snacks,12-05-2025,1,2.90,2.90,Premium Shopper,Downtown,Mobile
+T00241,C024,P040,Frozen Pizza,frozen,10/11/2025,2,5.20,10.40,Student,Downtown,Mobile
+T00136,C045,P050,Hand Soap,Personal Care,2025-07-08,1,2.20,2.20,Student,Eastpark,Mobile
+T00041,C026,P004,Lettuce,Produce,2025-03-25,1,1.40,1.40,Family,Eastpark,Mobile
+T00153,C030,P040,Frozen Pizza,Frozen,2025-07-07,2,5.20,10.40,Family,Downtown,Card
+T00275,C035,P027,Chocolate Bar,Snacks,2025-11-28,1,1.30,1.30,Senior,Westgate,Cash
+T00076,C033,P019,Bacon,Meat,2025-04-12,1,5.40,5.40,Premium Shopper,Downtown,Card
+T00091,C031,P050,Hand Soap,Personal Care,2025-05-18,,2.20,6.60,Student,Hilltop,Card
+T00182,C042,P028,Cookies,Snacks ,2025-08-22,3,2.90,8.70,Student,Downtown,Card
+T00275,C035,P012,Eggs,Dairy,2025-11-28,1,2.60,2.60,Senior,Westgate,Cash
+T00269,C052,P039,Jam,Pantry,2025-11-14,1,2.80,2.80,Young Singles,Hilltop,Mobile
+T00048,C056,P003,Tomatoes,Produce,2025-03-23,1,1.80,1.80,Premium Shopper,Downtown,Card
+T00109,C026,P049,Toothpaste,Personal Care,2025-06-04,4,2.70,10.80,Family,Hilltop,Mobile
+T00248,C004,P004,Lettuce,Produce,11/22/2025,1,1.40,1.40,Young Singles,Riverside,Card
+T00043,C054,P025,Energy Drink,Beverages,2025-03-14,1,2.20,2.20,Premium Shopper,Westgate,Voucher
+T00198,C002,P050,Hand Soap,Personal Care,2025-09-06,2,2.20,4.40,Family,Hilltop,Cash
+T00299,C012,P040,Frozen Pizza,Frozen,2025-12-03,1,5.20,5.20,Young Singles,Riverside,Card
+T00256,C056,P042,Frozen Vegetables,Frozen,2025-11-07,2,2.40,4.80,Premium Shopper,Westgate,Mobile
+T00302,C013,P020,Cola,Beverages,2025-12-02,4,1.60,6.40,Senior,Westgate,Mobile
+T00185,C042,P018,Ground Beef,Meat,2025-08-24,4,7.20,28.80,Student,Westgate,Card
+T00180,C044,P039,Jam,Pantry,18-08-2025,2,2.80,5.60,Budget Shopper,Riverside,Mobile
+T00184,C011,P044,Paper Towels,Household,08/19/2025,1,5.50,5.50,Senior,Hilltop,Card
+T00065,C036,P027,Chocolate Bar,Snacks,2025-04-05,4,1.30,5.20,Premium Shopper,Downtown,Cash
+T00252,C032,P034,Cereal,Pantry,2025-11-10,1,3.90,3.90,Family,Eastpark,Cash
+T00243,C013,P040,Frozen Pizza,Frozen,11/20/2025,1,5.20,,Senior,Riverside,Card
+T00054,C001,P017,Chicken Breast,Meat,2025-03-13,4,6.50,26.00,Student,Hilltop,Cash
+T00041,C026,P013,White Bread,Bakery,2025-03-25,4,1.90,7.60,Family,Eastpark,Mobile
+T00148,C007,P040,Frozen Pizza,Frozen,2025-07-02,1,5.20,5.20,Family,Westgate,Card
+T00298,C036,P025,Energy Drink,Beverages,2025-12-29,2,2.20,4.40,Premium Shopper,Westgate,Card
+T00021,C029,P008,Whole Milk,Dairy,02/16/2025,1,2.10,2.10,Premium Shopper,Hilltop,Mobile
+T00253,C040,P042,Frozen Vegetables,frozen,2025-11-25,1,2.40,2.40,Premium Shopper,Eastpark,Cash
+T00021,C029,P050,Hand Soap,Personal Care,02/16/2025,2,2.20,4.40,Premium Shopper,Hilltop,Mobile
+T00258,C038,P039,Jam,Pantry,2025-11-24,3,2.80,8.40,Student,Downtown,Mobile
+T00001,C043,P011,Butter,Dairy,2025-01-13,1,3.80,3.80,Student,Hilltop,Card
+T00288,C013,P012,Eggs,Dairy,12/13/2025,3,2.60,7.80,Senior,Riverside,Mobile
+T00094,C029,P035,Sugar,Pantry,2025-05-26,2,2.10,4.20,Premium Shopper,Downtown,Card
+T00115,C045,P018,Ground Beef,Meat,2025-06-07,5,7.20,36.00,Student,Westgate,Card
+T00259,C059,P003,Tomatoes,Produce,2025-11-29,2,1.80,3.60,Budget Shopper,Hilltop,Voucher
+T00020,C045,P009,Cheddar Cheese,Dairy,2025-02-26,2,4.50,9.00,Student,Eastpark,Cash
+T00248,C004,P044,Paper Towels,household,11/22/2025,3,5.50,16.50,Young Singles,Riverside,Card
+T00224,C008,P020,Cola,Beverages,2025-10-28,1,1.60,1.60,Budget Shopper,Westgate,Card
+T00225,C030,P032,Pasta Sauce,pantry,10/30/2025,1,2.70,2.70,Family,Riverside,Card
+T00223,C058,P027,Chocolate Bar,Snacks,2025-10-22,3,1.30,3.90,Family,Hilltop,Mobile
+T00159,C030,P041,Ice Cream,Frozen,2025-07-13,1,4.60,4.60,Family,Eastpark,Mobile
+T00229,C057,P004,Lettuce,Produce,2025-10-13,2,1.40,2.80,Student,Hilltop,Mobile
+T00073,C041,P045,Dish Soap,Household,2025-04-23,1,2.90,2.90,Young Singles,Westgate,Card
+T00263,C009,P036,Olive Oil,Pantry,2025-11-12,3,7.80,23.40,Senior,Hilltop,Mobile
+T00238,C028,P036,Olive Oil,PANTRY,2025-10-04,3,7.80,23.40,Budget Shopper,Riverside,Cash
+T00246,C039,P041,Ice Cream,Frozen,11/14/2025,1,4.60,4.60,Budget Shopper,Eastpark,Card
+T00117,C007,P036,Olive Oil,Pantry,2025-06-02,5,7.80,39.00,Family,Westgate,Card
+T00176,C024,P010,Greek Yogurt,Dairy,08/11/2025,1,$3.20,$3.20,Student,Hilltop,Card
+T00271,C033,P038,Peanut Butter,PANTRY,2025-11-22,1,3.50,3.50,Premium Shopper,Hilltop,Card
+T00103,C050,P041,Ice Cream,Frozen,2025-05-07,1,4.60,4.60,Premium Shopper,Eastpark,Card
+T00282,C019,P012,Eggs,Dairy,12/08/2025,4,2.60,10.40,Young Singles,Downtown,Card
+T00259,C059,P010,Greek Yogurt,Dairy,2025-11-29,4,3.20,12.80,Budget Shopper,Hilltop,Voucher
+T00010,C001,P029,Popcorn,Snacks,2025-01-02,2,2.00,4.00,Student,Hilltop,Mobile
+T00152,C025,P037,Canned Beans,Pantry,2025-07-14,2,1.10,2.20,Budget Shopper,Downtown,Mobile
+T00185,C042,P005,Onions,PRODUCE,2025-08-24,4,0.90,3.60,Student,Westgate,Card
+T00025,C017,P035,Sugar,Pantry,02/14/2025,1,2.10,2.10,Senior,Downtown,Cash
+T00295,C009,P036,Olive Oil,Pantry,2025-12-05,2,7.80,15.60,Senior,Eastpark,Mobile
+T00125,C051,P037,Canned Beans,Pantry,2025-06-28,1,1.10,1.10,Young Singles,Downtown,Cash
+T00013,C053,P013,White Bread,Bakery,01/07/2025,5,1.90,9.50,,Westgate,Card
+T00195,C044,P029,Popcorn,snacks,2025-09-13,4,2.00,8.00,Budget Shopper,Westgate,Card
+T00245,C012,P035,Sugar,Pantry,2025-11-19,5,2.10,10.50,Young Singles,Riverside,Card
+T00296,C041,P024,Tea Bags,Beverages,2025-12-17,3,3.60,10.80,Young Singles,Eastpark,Card
+T00238,C028,P010,Greek Yogurt,Dairy,2025-10-04,3,3.20,9.60,Budget Shopper,Riverside,Cash
+T00088,C016,P035,Sugar,Pantry,2025-05-12,2,2.10,,Young Singles,Eastpark,Card
+T00015,C048,P040,Frozen Pizza,Frozen,2025-01-24,2,5.20,10.40,Student,Riverside,Card
+T00073,C041,P035,Sugar,Pantry,2025-04-23,2,2.10,4.20,Young Singles,Westgate,Card
+T00128,C047,P020,Cola,Beverages,06/21/2025,2,$1.60,$3.20,Young Singles,Westgate,Card
+T00223,C058,P020,Cola,Beverages,2025-10-22,1,1.60,1.60,Family,Hilltop,Mobile
+T00165,C011,P023,Coffee Beans,Beverages,2025-08-18,2,8.90,17.80,Senior,Westgate,Card
+T00304,C016,P045,Dish Soap,Household,2025-12-26,5,2.90,14.50,Young Singles,Downtown,Voucher
+T00281,C056,P045,Dish Soap,Household,2025-12-19,1,2.90,2.90,Premium Shopper,Downtown,Cash
+T00101,C060,P042,Frozen Vegetables,Frozen,11-05-2025,1,2.40,2.40,Student,Riverside,Card
+T00199,C055,P012,Eggs,Dairy,09/19/2025,1,2.60,2.60,Student,Westgate,Card
+T00197,C052,P046,Laundry Detergent,Household,29-09-2025,1,9.40,9.40,Young Singles,Eastpark,Card
+T00176,C024,P009,Cheddar Cheese,Dairy,08/11/2025,2,4.50,9.00,Student,Hilltop,Card
+T00202,C038,P032,Pasta Sauce,Pantry,2025-09-13,2,2.70,5.40,Student,Downtown,Card
+T00214,C027,P003,Tomatoes,Produce,2025-09-29,3,1.80,5.40,Family,Hilltop,Card
+T00171,C018,P050,Hand Soap,Personal Care,2025-08-21,1,2.20,2.20,Young Singles,Westgate,Card
+T00286,C023,P008,Whole Milk,Dairy,12/17/2025,1,2.10,2.10,Premium Shopper,Westgate,Mobile
+T00208,C031,P043,Frozen Fries,Frozen,2025-09-03,2,3.00,6.00,Student,Downtown,Card
+T00247,C046,P043,Frozen Fries,Frozen,2025-11-11,1,3.00,3.00,Premium Shopper,Downtown,Mobile
+T00259,C059,P008,Whole Milk,Dairy,2025-11-29,2,2.10,4.20,Budget Shopper,Hilltop,Voucher
+T00062,C059,P018,  Ground Beef ,Meat,2025-04-23,2,7.20,14.40,Budget Shopper,Westgate,Card
+T00157,C026,P003,Tomatoes,Produce,19-07-2025,2,1.80,3.60,Family,Eastpark,Cash
+T00106,C040,P021,Orange Juice,Beverages,05/28/2025,2,3.40,6.80,Premium Shopper,Westgate,Card
+T00124,C031,P045,Dish Soap,Household,05-06-2025,2,2.90,5.80,Student,Riverside,Cash
+T00030,C050,P006,Carrots,Produce,02/18/2025,3,0.85,2.55,Premium Shopper,Westgate,Cash
+T00257,C027,P044,Paper Towels,household,2025-11-09,1,5.50,5.50,Family,Westgate,Card
+T00239,C004,P006,Carrots,Produce,2025-10-09,1,0.85,0.85,Young Singles,Eastpark,Card
+T00054,C001,P044,Paper Towels,Household ,2025-03-13,4,5.50,22.00,Student,Hilltop,Cash
+T00071,C004,P017,Chicken Breast,Meat,20-04-2025,,6.50,19.50,Young Singles,Downtown,Card
+T00245,C012,P033,Rice,Pantry,2025-11-19,2,4.20,8.40,Young Singles,Riverside,Card
+T00218,C039,P017,Chicken Breast,Meat,10/16/2025,1,6.50,6.50,Budget Shopper,Westgate,Card
+T00287,C012,P024,Tea Bags,Beverages,2025-12-09,1,3.60,3.60,Young Singles,Eastpark,Card
+T00278,C003,P050,Hand Soap,Personal Care,2025-12-22,1,2.20,2.20,Student,Hilltop,Card
+T00035,C053,P020,Cola,Beverages,2025-02-04,1,1.60,1.60,Senior,Downtown,Card
+T00243,C013,P046,Laundry Detergent,Household,11/20/2025,1,9.40,,Senior,Riverside,Card
+T00087,C004,P039,Jam,pantry,05/04/2025,1,$2.80,$2.80,Young Singles,Riverside,Card
+T00178,C016,P019,Bacon,Meat,2025-08-05,1,5.40,5.40,Young Singles,Hilltop,Mobile
+T00069,C048,P035,Sugar,Pantry,2025-04-03,3,2.10,6.30,Student,Eastpark,Card
+T00079,C007,P010,Greek Yogurt,Dairy,2025-04-11,2,3.20,6.40,Family,Eastpark,Mobile
+T00043,C054,P039,Jam,Pantry,2025-03-14,3,2.80,8.40,Premium Shopper,Westgate,Voucher
+T00207,C014,P007,Avocado,Produce,2025-09-11,1,1.50,1.50,Senior,Riverside,Card
+T00204,C005,P041,Ice Cream,Frozen,2025-09-24,3,4.60,13.80,Young Singles,Riverside,Card
+T00159,C030,P027,Chocolate Bar,Snacks,2025-07-13,1,1.30,1.30,Family,Eastpark,Mobile
+T00244,C038,P032,Pasta Sauce,Pantry,2025-11-22,4,2.70,10.80,Student,Downtown,Mobile
+T00256,C056,P050,Hand Soap,Personal Care,2025-11-07,3,2.20,6.60,Premium Shopper,Westgate,Mobile
+T00014,C003,P008,Whole Milk,Dairy,2025-01-09,1,2.10,2.10,Student,Downtown,Cash
+T00275,C035,P026,Potato Chips,Snacks,2025-11-28,3,2.50,7.50,Senior,Westgate,Cash
+T00109,C026,P009,Cheddar Cheese,Dairy,2025-06-04,2,4.50,9.00,Family,Hilltop,Mobile
+T00298,C036,P042,Frozen Vegetables,Frozen,2025-12-29,2,2.40,4.80,Premium Shopper,Westgate,Card
+T00274,C034,P024,Tea Bags,Beverages,2025-11-19,2,3.60,7.20,Budget Shopper,Downtown,Cash
+T00253,C040,P001,Bananas,Produce,2025-11-25,4,0.59,2.36,Premium Shopper,Eastpark,Cash
+T00210,C038,P027,Chocolate Bar,Snacks,09/25/2025,1,1.30,1.30,Student,Riverside,Cash
+T00018,C053,P003,Tomatoes,PRODUCE,2025-01-03,3,1.80,5.40,Senior,Riverside,Mobile
+T00259,C059,P001,Bananas,Produce,2025-11-29,3,0.59,1.77,Budget Shopper,Hilltop,Voucher
+T00206,C005,P036,Olive Oil,Pantry,2025-09-04,2,7.80,15.60,Young Singles,Hilltop,Card
+T00049,C030,P044,Paper Towels,Household,03/09/2025,1,5.50,5.50,Family,Hilltop,Mobile
+T00310,C046,P024,Tea Bags,BEVERAGES,20-12-2025,1,3.60,3.60,Premium Shopper,Downtown,Card
+T00239,C004,P030,Pretzels,Snacks,2025-10-09,1,2.30,2.30,Young Singles,Eastpark,Card
+T00260,C012,P035,Sugar,Pantry,2025-11-06,5,2.10,10.50,Young Singles,Riverside,Cash
+T00129,C026,P049,Toothpaste,Personal Care,18-06-2025,2,$2.70,$5.40,Family,Eastpark,Card
+T00273,C024,P048,Shampoo,Personal Care,2025-11-14,2,4.80,9.60,Student,Downtown,Mobile
+T00282,C019,P032,Pasta Sauce,Pantry,12/08/2025,1,2.70,2.70,Young Singles,Downtown,Card
+T00107,C032,P016,Croissant,Bakery,2025-05-15,3,3.10,9.30,Family,Hilltop,Cash
+T00313,C021,P049,Toothpaste,Personal Care,2025-12-29,1,2.70,2.70,Family,Eastpark,Voucher
+T00148,C007,P002,Apples,Produce,2025-07-02,2,1.20,2.40,Family,Westgate,Card
+T00228,C057,P020,Cola,beverages,14-10-2025,1,$1.60,$1.60,Student,Riverside,Card
+T00009,C043,P042,Frozen Vegetables,Frozen,2025-01-01,1,2.40,2.40,Student,Eastpark,Card
+T00152,C025,P016,Croissant,Bakery,2025-07-14,1,3.10,3.10,Budget Shopper,Downtown,Mobile
+T00246,C039,P036,Olive Oil,Pantry,11/14/2025,2,7.80,15.60,Budget Shopper,Eastpark,Card
+T00291,C035,P050,Hand Soap,Personal Care,2025-12-21,3,2.20,6.60,Senior,Riverside,Voucher
+T00205,C025,P023,Coffee Beans,beverages,02-09-2025,3,8.90,26.70,Budget Shopper,Westgate,Mobile
+T00051,C037,P015,Bagels,Bakery,03/01/2025,1,2.80,2.80,Young Singles,Downtown,Voucher
+T00177,C044,P049,Toothpaste,Personal Care,2025-08-20,2,2.70,5.40,Budget Shopper,Westgate,Mobile
+T00110,C054,P025,Energy Drink,Beverages,06/17/2025,5,2.20,11.00,Premium Shopper,Eastpark,Cash
+T00077,C006,P037,Canned Beans,Pantry ,2025-04-28,1,1.10,1.10,Premium Shopper,Eastpark,Cash
+T00041,C026,P011,Butter,Dairy,2025-03-25,1,3.80,3.80,Family,Eastpark,Mobile
+T00065,C036,P008,Whole Milk,dairy,2025-04-05,4,2.10,8.40,Premium Shopper,Downtown,Cash
+T00069,C048,P021,Orange Juice,beverages,2025-04-03,1,3.40,3.40,Student,Eastpark,Card
+T00147,C003,P038,Peanut Butter,Pantry,2025-07-22,3,3.50,10.50,Student,Riverside,Voucher
+T00292,C041,P020,Cola,Beverages,2025-12-06,1,1.60,1.60,Young Singles,Hilltop,Card
+T00184,C011,P001,Bananas,Produce,08/19/2025,4,0.59,2.36,Senior,Hilltop,Card
+T00231,C054,P003,Tomatoes,Produce,2025-10-09,1,1.80,1.80,Premium Shopper,Eastpark,Voucher
+T00028,C026,P007,Avocado,Produce,2025-02-13,1,1.50,1.50,Family,Riverside,Card
+T00146,C057,P022,Sparkling Water,Beverages,2025-07-23,1,1.10,1.10,Student,Eastpark,Cash
+T00230,C041,P018,  Ground Beef ,Meat ,2025-10-22,2,7.20,14.40,Young Singles,Downtown,Card
+T00250,C038,P011,Butter,Dairy,2025-11-25,1,3.80,3.80,Student,Eastpark,Mobile
+T00214,C027,P020,Cola,beverages,2025-09-29,4,1.60,6.40,Family,Hilltop,Card
+T00022,C009,P022,Sparkling Water,Beverages,2025-02-03,1,1.10,1.10,Senior,Riverside,Card
+T00055,C041,P003,Tomatoes,Produce,2025-03-03,1,1.80,1.80,Young Singles,Westgate,Voucher
+T00100,C034,P039,Jam,Pantry ,05/22/2025,1,2.80,2.80,Budget Shopper,Hilltop,Card
+T00179,C004,P039,Jam,Pantry,2025-08-21,1,2.80,2.80,Young Singles,Riverside,Cash
+T00108,C035,P004,Lettuce,Produce ,2025-06-10,2,1.40,2.80,Senior,Downtown,Mobile
+T00252,C032,P008,Whole Milk,Dairy,2025-11-10,,2.10,2.10,Family,Eastpark,Cash
+T00255,C032,P006,Carrots,Produce,2025-11-15,2,0.85,1.70,Family,Downtown,Card
+T00119,C054,P003,Tomatoes,Produce,2025-06-02,1,1.80,1.80,,Westgate,Mobile
+T00130,C027,P014,Whole Wheat Bread,Bakery,06/22/2025,1,2.40,2.40,Family,Eastpark,Mobile
+T00287,C012,P027,Chocolate Bar,Snacks,2025-12-09,2,1.30,2.60,Young Singles,Eastpark,Card
+T00273,C024,P035,Sugar,PANTRY,2025-11-14,2,2.10,4.20,Student,Downtown,Mobile
+T00116,C014,P009,Cheddar Cheese,Dairy,2025-06-16,1,4.50,4.50,Senior,Riverside,Mobile
+T00031,C023,P018,Ground Beef,Meat,02/07/2025,2,$7.20,$14.40,Premium Shopper,Hilltop,Card
+T00174,C060,P011,Butter,Dairy,2025-08-04,4,3.80,15.20,Student,Riverside,Card
+T00227,C044,P007,Avocado,Produce,2025-10-01,2,1.50,3.00,Budget Shopper,Downtown,Cash
+T00288,C013,P027,Chocolate Bar,Snacks,12/13/2025,2,1.30,2.60,Senior,Riverside,Mobile
+T00037,C019,P005,Onions,Produce,03/16/2025,2,0.90,1.80,Young Singles,Downtown,Card
+T00013,C053,P005,Onions,Produce,01/07/2025,5,0.90,4.50,Senior,Westgate,Card
+T00220,C053,P024,Tea Bags,Beverages,2025-10-17,1,3.60,3.60,Senior,Eastpark,Card
+T00168,C056,P046,Laundry Detergent,Household,2025-08-15,2,9.40,18.80,Premium Shopper,Downtown,Mobile
+T00205,C025,P025,Energy Drink,Beverages,02-09-2025,,2.20,2.20,Budget Shopper,Westgate,Mobile
+T00182,C042,P016,Croissant,Bakery,2025-08-22,1,3.10,3.10,Student,Downtown,Card
+T00020,C045,P030,Pretzels,Snacks,2025-02-26,3,2.30,6.90,Student,Eastpark,Cash
+T00048,C056,P019,Bacon,Meat,2025-03-23,3,$5.40,$16.20,Premium Shopper,Downtown,Card
+T00244,C038,P033,Rice,Pantry,2025-11-22,4,4.20,16.80,Student,Downtown,Mobile
+T00084,C031,P011,Butter,Dairy,2025-05-21,1,3.80,3.80,Student,Hilltop,Cash
+T00040,C055,P026,Potato Chips,SNACKS,2025-03-04,1,2.50,2.50,Student,Riverside,Card
+T00080,C020,P048,Shampoo,Personal Care,04/03/2025,3,4.80,14.40,Budget Shopper,Eastpark,Card
+T00206,C005,P022,Sparkling Water,beverages,2025-09-04,1,1.10,1.10,Young Singles,Hilltop,Card
+T00171,C018,P020,Cola,Beverages,2025-08-21,1,1.60,1.60,Young Singles,Westgate,Card
+T00212,C047,P034,Cereal,Pantry,2025-09-30,3,3.90,11.70,Young Singles,Downtown,Card
+T00168,C056,P038,  Peanut Butter ,Pantry,2025-08-15,2,$3.50,$7.00,Premium Shopper,Downtown,Mobile
+T00058,C018,P006,Carrots,Produce,13-03-2025,1,0.85,0.85,Young Singles,Riverside,Voucher
+T00030,C050,P021,Orange Juice,Beverages,02/18/2025,2,3.40,6.80,Premium Shopper,Westgate,Cash
+T00160,C046,P011,Butter,Dairy,2025-07-26,4,3.80,15.20,Premium Shopper,Downtown,Card
+T00211,C029,P013,White Bread,Bakery,2025-09-25,3,1.90,5.70,Premium Shopper,Riverside,Voucher
+T00297,C019,P049,Toothpaste,Personal Care,2025-12-12,3,2.70,8.10,Young Singles,Westgate,Cash
+T00033,C035,P034,Cereal,Pantry,02/24/2025,1,3.90,3.90,Senior,Riverside,Card
+T00081,C050,P022,Sparkling Water,Beverages,04/17/2025,3,1.10,3.30,Premium Shopper,Eastpark,Mobile
+T00045,C025,P031,Pasta,Pantry,2025-03-19,1,1.50,1.50,Budget Shopper,Riverside,Mobile
+T00198,C002,P032,Pasta Sauce,Pantry,2025-09-06,3,2.70,8.10,Family,Hilltop,Cash
+T00080,C020,P045,Dish Soap,Household,04/03/2025,1,2.90,2.90,Budget Shopper,Eastpark,Card
+T00214,C027,P012,Eggs,Dairy,2025-09-29,1,2.60,2.60,Family,Hilltop,Card
+T00135,C018,P013,White Bread,Bakery,2025-06-02,1,1.90,1.90,Young Singles,Westgate,Mobile
+T00094,C029,P024,Tea Bags,Beverages,2025-05-26,4,3.60,14.40,Premium Shopper,Downtown,Card
+T00165,C011,P020,Cola,Beverages,2025-08-18,1,1.60,1.60,,Westgate,Card
+T00312,C043,P020,Cola,Beverages,2025-12-23,2,1.60,3.20,Student,Westgate,Mobile
+T00084,C031,P006,Carrots,produce,2025-05-21,1,0.85,0.85,Student,Hilltop,Cash
+T00298,C036,P023,Coffee Beans,Beverages,2025-12-29,2,8.90,17.80,Premium Shopper,Westgate,Card
+T00057,C045,P035,Sugar,Pantry,2025-03-02,2,2.10,4.20,Student,Hilltop,Card
+T00094,C029,P003,Tomatoes,Produce,2025-05-26,2,1.80,3.60,Premium Shopper,Downtown,Card
+T00224,C008,P040,Frozen Pizza,Frozen,2025-10-28,1,5.20,5.20,Budget Shopper,Westgate,Card
+T00297,C019,P031,Pasta,Pantry,2025-12-12,2,1.50,3.00,Young Singles,Westgate,Cash
+T00008,C009,P007,Avocado,Produce,13-01-2025,,1.50,1.50,Senior,Hilltop,Cash
+T00092,C026,P032,Pasta Sauce,Pantry,2025-05-29,1,$2.70,$2.70,Family,Westgate,Mobile
+T00202,C038,P021,Orange Juice,Beverages,2025-09-13,,3.40,3.40,Student,Downtown,Card
+T00030,C050,P016,Croissant,bakery,02/18/2025,1,3.10,3.10,Premium Shopper,Westgate,Cash
+T00013,C053,P011,Butter,Dairy,01/07/2025,5,3.80,19.00,Senior,Westgate,Card
+T00145,C051,P034,Cereal,Pantry,07/21/2025,1,$3.90,$3.90,Young Singles,Hilltop,Cash
+T00207,C014,P035,Sugar,PANTRY,2025-09-11,1,2.10,2.10,Senior,Riverside,Card
+T00263,C009,P020,Cola,Beverages,2025-11-12,1,1.60,1.60,Senior,Hilltop,Mobile
+T00012,C036,P016,Croissant,Bakery,01/25/2025,2,3.10,6.20,Premium Shopper,Westgate,Voucher
+T00092,C026,P006,Carrots,Produce,2025-05-29,1,0.85,0.85,Family,Westgate,Mobile
+T00002,C041,P016,Croissant,Bakery,23-01-2025,2,3.10,6.20,Young Singles,Downtown,Card
+T00034,C018,P049,Toothpaste,personal care,2025-02-05,1,2.70,2.70,Young Singles,Downtown,Voucher
+T00162,C014,P007,Avocado,Produce,07/23/2025,2,1.50,3.00,Senior,Riverside,Card
+T00277,C060,P050,Hand Soap,personal care,2025-12-13,2,2.20,4.40,Student,Westgate,Cash
+T00140,C034,P004,Lettuce,Produce,2025-07-02,2,1.40,2.80,Budget Shopper,Downtown,Mobile
+T00240,C042,P039,Jam,Pantry,2025-10-24,5,2.80,14.00,Student,Downtown,Card
+T00058,C018,P043,Frozen Fries,Frozen,13-03-2025,1,3.00,3.00,Young Singles,Riverside,Voucher
+T00038,C010,P008,Whole Milk,Dairy,03/27/2025,1,2.10,2.10,Family,Downtown,Card
+T00293,C029,P012,Eggs,Dairy,2025-12-29,4,2.60,10.40,Premium Shopper,Hilltop,Mobile
+T00029,C042,P028,Cookies,Snacks,2025-02-17,2,2.90,,Student,Hilltop,Card
+T00041,C026,P027,Chocolate Bar,Snacks,2025-03-25,2,1.30,2.60,,Eastpark,Mobile
+T00098,C051,P035,Sugar,Pantry ,2025-05-07,5,2.10,10.50,Young Singles,Riverside,Card
+T00092,C026,P024,Tea Bags,Beverages,2025-05-29,2,3.60,7.20,Family,Westgate,Mobile
+T00260,C012,P043,Frozen Fries,Frozen,2025-11-06,1,3.00,3.00,Young Singles,Riverside,Cash
+T00222,C053,P035,Sugar,Pantry,10/19/2025,3,2.10,6.30,Senior,Riverside,Card
+T00103,C050,P035,Sugar,Pantry,2025-05-07,2,$2.10,$4.20,Premium Shopper,Eastpark,Card
+T00276,C007,P046,Laundry Detergent,household,12/06/2025,5,9.40,47.00,Family,Riverside,Cash
+T00044,C018,P029,Popcorn,Snacks,2025-03-17,2,2.00,4.00,Young Singles,Downtown,Card
+T00270,C058,P023,Coffee Beans,Beverages,2025-11-02,5,8.90,44.50,Family,Eastpark,Card
+T00151,C009,P007,Avocado,produce,2025-07-04,3,1.50,4.50,Senior,Downtown,Card
+T00306,C023,P045,Dish Soap,Household,2025-12-13,2,2.90,5.80,Premium Shopper,Riverside,Card
+T00208,C031,P042,Frozen Vegetables,Frozen,2025-09-03,4,2.40,9.60,Student,Downtown,Card
+T00135,C018,P043,Frozen Fries,Frozen,2025-06-02,5,3.00,,Young Singles,Westgate,Mobile
+T00026,C013,P037,Canned Beans,Pantry,2025-02-08,5,1.10,5.50,Senior,Downtown,Cash
+T00291,C035,P032,Pasta Sauce,Pantry,2025-12-21,1,2.70,2.70,Senior,Riverside,Voucher
+T00011,C045,P009,Cheddar Cheese,Dairy,01/29/2025,3,4.50,13.50,Student,Riverside,Cash
+T00114,C052,P020,Cola,Beverages,2025-06-21,1,1.60,1.60,Young Singles,Hilltop,Cash
+T00032,C019,P024,Tea Bags,Beverages,2025-02-03,,3.60,7.20,Young Singles,Riverside,Card
+T00299,C012,P045,Dish Soap,Household,2025-12-03,5,2.90,14.50,Young Singles,Riverside,Card
+T00190,C060,P018,Ground Beef,Meat,08/11/2025,2,7.20,14.40,Student,Westgate,Mobile
+T00225,C030,P041,Ice Cream,Frozen,10/30/2025,3,4.60,13.80,Family,Riverside,Card
+T00062,C059,P009,Cheddar Cheese,Dairy,2025-04-23,5,4.50,22.50,Budget Shopper,Westgate,Card
+T00090,C023,P009,Cheddar Cheese,Dairy,2025-05-02,2,4.50,9.00,Premium Shopper,Eastpark,Card
+T00270,C058,P002,Apples,Produce,2025-11-02,3,1.20,3.60,Family,Eastpark,Card
+T00113,C034,P025,Energy Drink,Beverages,05-06-2025,1,2.20,2.20,Budget Shopper,Riverside,Cash
+T00247,C046,P027,Chocolate Bar,Snacks,2025-11-11,3,1.30,3.90,Premium Shopper,Downtown,Mobile
+T00218,C039,P045,Dish Soap,Household,10/16/2025,3,2.90,8.70,Budget Shopper,Westgate,Card
+T00024,C030,P002,Apples,Produce,2025-02-27,1,1.20,1.20,Family,Riverside,Voucher
+T00202,C038,P041,Ice Cream,Frozen,2025-09-13,3,4.60,13.80,Student,Downtown,Card
+T00080,C020,P043,Frozen Fries,Frozen,04/03/2025,5,3.00,15.00,Budget Shopper,Eastpark,Card
+T00009,C043,P036,Olive Oil,Pantry,2025-01-01,2,7.80,15.60,Student,Eastpark,Card
+T00093,C029,P018,Ground Beef,Meat,12-05-2025,1,7.20,7.20,Premium Shopper,Downtown,Mobile
+T00209,C017,P043,Frozen Fries,Frozen,2025-09-15,1,3.00,3.00,Senior,Riverside,Mobile
+T00034,C018,P009,Cheddar Cheese,Dairy,2025-02-05,1,4.50,4.50,Young Singles,Downtown,Voucher
+T00234,C021,P009,Cheddar Cheese,Dairy,2025-10-22,2,4.50,9.00,Family,Westgate,Mobile
+T00053,C033,P008,Whole Milk,DAIRY,2025-03-17,2,2.10,4.20,Premium Shopper,Hilltop,Mobile
+T00118,C042,P048,Shampoo,personal care,2025-06-10,3,4.80,14.40,Student,Downtown,Mobile
+T00186,C020,P020,Cola,Beverages,2025-08-28,1,1.60,1.60,Budget Shopper,Hilltop,Card
+T00177,C044,P008,Whole Milk,Dairy,2025-08-20,5,2.10,10.50,Budget Shopper,Westgate,Mobile
+T00047,C055,P032,Pasta Sauce,Pantry,2025-03-22,2,2.70,,Student,Eastpark,Card
+T00166,C049,P030,Pretzels,Snacks,2025-08-26,2,2.30,4.60,Family,Riverside,Card
+T00251,C017,P010,Greek Yogurt,Dairy,11/28/2025,2,3.20,6.40,Senior,Downtown,Card
+T00305,C045,P036,Olive Oil,pantry,2025-12-05,3,7.80,23.40,Student,Eastpark,Mobile
+T00102,C060,P042,Frozen Vegetables,Frozen,05/27/2025,3,2.40,7.20,Student,Eastpark,Card
+T00009,C043,P007,Avocado,Produce,2025-01-01,2,1.50,3.00,Student,Eastpark,Card
+T00083,C052,P030,Pretzels,Snacks,2025-05-10,3,2.30,6.90,Young Singles,Westgate,Mobile
+T00042,C016,P030,Pretzels,Snacks,2025-03-26,1,2.30,2.30,Young Singles,Riverside,Card
+T00293,C029,P024,Tea Bags,BEVERAGES,2025-12-29,1,3.60,3.60,Premium Shopper,Hilltop,Mobile
+T00219,C018,P031,Pasta,Pantry,10/07/2025,2,1.50,3.00,Young Singles,Westgate,Cash
+T00238,C028,P020,Cola,Beverages,2025-10-04,2,1.60,3.20,Budget Shopper,Riverside,Cash
+T00121,C019,P021,Orange Juice,Beverages,2025-06-26,1,3.40,3.40,Young Singles,Eastpark,Mobile
+T00059,C015,P009,Cheddar Cheese,dairy,04/28/2025,2,4.50,9.00,Premium Shopper,Hilltop,Mobile
+T00007,C005,P038,Peanut Butter,Pantry,01/06/2025,2,3.50,7.00,Young Singles,Eastpark,Card
+T00166,C049,P011,Butter,Dairy,2025-08-26,2,3.80,7.60,Family,Riverside,Card
+T00173,C051,P041,Ice Cream,Frozen,08/16/2025,3,4.60,13.80,Young Singles,Hilltop,Mobile
+T00310,C046,P030,Pretzels,Snacks,20-12-2025,1,2.30,2.30,Premium Shopper,Downtown,Card
+T00175,C007,P001,Bananas,Produce ,2025-08-23,3,0.59,1.77,Family,Downtown,Card
+T00230,C041,P027,Chocolate Bar,Snacks ,2025-10-22,3,1.30,3.90,Young Singles,Downtown,Card
+T00281,C056,P023,Coffee Beans,Beverages,2025-12-19,4,8.90,35.60,Premium Shopper,Downtown,Cash
+T00015,C048,P024,Tea Bags,Beverages,2025-01-24,2,3.60,7.20,Student,Riverside,Card
+T00213,C037,P037,Canned Beans,Pantry,05-09-2025,3,1.10,3.30,,Eastpark,Cash
+T00142,C033,P008,  Whole Milk ,Dairy,01-07-2025,3,2.10,6.30,Premium Shopper,Westgate,Mobile
+T00256,C056,P028,Cookies,Snacks,2025-11-07,2,2.90,5.80,Premium Shopper,Westgate,Mobile
+T00283,C056,P040,Frozen Pizza,Frozen,2025-12-08,1,5.20,5.20,Premium Shopper,Hilltop,Card
+T00141,C002,P047,Trash Bags,Household,2025-07-16,1,4.10,4.10,Family,Downtown,Cash
+T00193,C007,P004,Lettuce,Produce,09/08/2025,3,1.40,4.20,Family,Westgate,Card
+T00044,C018,P032,Pasta Sauce,Pantry,2025-03-17,2,2.70,5.40,Young Singles,Downtown,Card
+T00151,C009,P002,Apples,Produce,2025-07-04,2,1.20,2.40,Senior,Downtown,Card
+T00039,C021,P038,Peanut Butter,Pantry,2025-03-24,2,3.50,7.00,Family,Eastpark,Card
+T00271,C033,P009,Cheddar Cheese,Dairy,2025-11-22,1,4.50,4.50,Premium Shopper,Hilltop,Card
+T00230,C041,P009,Cheddar Cheese,Dairy ,2025-10-22,1,4.50,4.50,Young Singles,Downtown,Card
+T00299,C012,P020,Cola,beverages,2025-12-03,5,1.60,8.00,Young Singles,Riverside,Card
+T00149,C006,P018,Ground Beef,Meat,2025-07-13,1,7.20,7.20,Premium Shopper,Eastpark,Card
+T00101,C060,P017,Chicken Breast,Meat,11-05-2025,2,6.50,13.00,,Riverside,Card
+T00099,C034,P021,Orange Juice,Beverages,05/16/2025,2,3.40,6.80,Budget Shopper,Westgate,Mobile
+T00221,C056,P039,Jam,Pantry,10/11/2025,2,2.80,5.60,Premium Shopper,Hilltop,Card
+T00316,C047,P045,Dish Soap,Household,12/07/2025,2,2.90,5.80,Young Singles,Downtown,Mobile
+T00009,C043,P009,Cheddar Cheese,Dairy,2025-01-01,1,4.50,4.50,Student,Eastpark,Card
+T00214,C027,P018,Ground Beef,Meat,2025-09-29,2,7.20,14.40,Family,Hilltop,Card
+T00176,C024,P042,Frozen Vegetables,Frozen,08/11/2025,3,2.40,7.20,Student,Hilltop,Card
+T00277,C060,P004,Lettuce,Produce,2025-12-13,2,1.40,2.80,Student,Westgate,Cash
+T00103,C050,P019,Bacon,Meat,2025-05-07,1,5.40,5.40,Premium Shopper,Eastpark,Card
+T00227,C044,P035,Sugar,Pantry,2025-10-01,2,2.10,4.20,Budget Shopper,Downtown,Cash
+T00262,C043,P028,Cookies,Snacks,2025-11-20,1,2.90,2.90,Student,Hilltop,Mobile
+T00245,C012,P023,Coffee Beans,Beverages,2025-11-19,5,8.90,44.50,Young Singles,Riverside,Card
+T00279,C048,P023,Coffee Beans,Beverages,2025-12-01,1,8.90,8.90,Student,Downtown,Voucher
+T00228,C057,P011,Butter,Dairy ,14-10-2025,2,3.80,7.60,Student,Riverside,Card
+T00158,C040,P041,Ice Cream,Frozen,2025-07-21,2,4.60,9.20,Premium Shopper,Downtown,Cash
+T00089,C056,P023,Coffee Beans,Beverages,2025-05-13,3,8.90,26.70,Premium Shopper,Westgate,Card
+T00253,C040,P043,Frozen Fries,Frozen,2025-11-25,2,3.00,6.00,Premium Shopper,Eastpark,Cash
+T00229,C057,P043,Frozen Fries,frozen,2025-10-13,3,3.00,9.00,Student,Hilltop,Mobile
+T00075,C042,P005,Onions,Produce,19-04-2025,3,0.90,2.70,Student,Eastpark,Card
+T00083,C052,P037,Canned Beans,Pantry,2025-05-10,1,1.10,1.10,Young Singles,Westgate,Mobile
+T00266,C012,P011,Butter,dairy,2025-11-06,1,$3.80,$3.80,Young Singles,Eastpark,Voucher
+T00198,C002,P018,Ground Beef,Meat,2025-09-06,1,7.20,7.20,Family,Hilltop,Cash
+T00004,C029,P049,Toothpaste,Personal Care,2025-01-03,3,2.70,8.10,Premium Shopper,Eastpark,Card
+T00060,C017,P031,Pasta,Pantry,2025-04-06,2,1.50,3.00,Senior,Downtown,Card
+T00308,C055,P020,Cola,Beverages,2025-12-20,2,1.60,3.20,Student,Hilltop,Mobile
+T00023,C025,P027,Chocolate Bar,Snacks,2025-02-19,4,1.30,5.20,Budget Shopper,Westgate,Card
+T00107,C032,P014,Whole Wheat Bread,Bakery,2025-05-15,1,2.40,2.40,Family,Hilltop,Cash
+T00100,C034,P009,Cheddar Cheese,Dairy,05/22/2025,1,4.50,4.50,Budget Shopper,Hilltop,Card
+T00012,C036,P020,Cola,Beverages,01/25/2025,1,$1.60,$1.60,Premium Shopper,Westgate,Voucher
+T00225,C030,P022,Sparkling Water,Beverages,10/30/2025,1,1.10,1.10,Family,Riverside,Card
+T00127,C020,P038,Peanut Butter,PANTRY,06/26/2025,2,3.50,7.00,Budget Shopper,Downtown,Card
+T00189,C058,P006,Carrots,Produce,08/08/2025,1,0.85,0.85,Family,Eastpark,Card
+T00264,C017,P002,Apples,produce,11/07/2025,1,1.20,1.20,Senior,Downtown,Mobile
+T00271,C033,P039,Jam,Pantry,2025-11-22,1,2.80,2.80,Premium Shopper,Hilltop,Card
+T00192,C010,P004,Lettuce,Produce,11-08-2025,2,1.40,2.80,Family,Downtown,Mobile
+T00143,C030,P025,Energy Drink,beverages,2025-07-13,2,2.20,4.40,Family,Eastpark,Card
+T00008,C009,P035,Sugar,Pantry,13-01-2025,4,2.10,8.40,Senior,Hilltop,Cash
+T00034,C018,P041,Ice Cream,Frozen,2025-02-05,1,4.60,4.60,Young Singles,Downtown,Voucher
+T00001,C043,P015,Bagels,bakery,2025-01-13,2,2.80,5.60,Student,Hilltop,Card
+T00054,C001,P042,Frozen Vegetables,Frozen,2025-03-13,4,2.40,9.60,Student,Hilltop,Cash
+T00310,C046,P023,Coffee Beans,Beverages,20-12-2025,3,8.90,26.70,Premium Shopper,Downtown,Card
+T00069,C048,P024,Tea Bags,Beverages,2025-04-03,1,3.60,3.60,Student,Eastpark,Card
+T00188,C054,P048,Shampoo,Personal Care,2025-08-21,,$4.80,$4.80,,Downtown,Voucher
+T00270,C058,P034,Cereal,Pantry,2025-11-02,2,3.90,7.80,Family,Eastpark,Card
+T00154,C021,P026,Potato Chips,Snacks,2025-07-10,1,2.50,2.50,,Eastpark,Voucher
+T00248,C004,P045,Dish Soap,Household,11/22/2025,3,2.90,8.70,Young Singles,Riverside,Card
+T00194,C042,P002,Apples,Produce,2025-09-21,2,1.20,2.40,Student,Downtown,Cash
+T00162,C014,P035,Sugar,Pantry,07/23/2025,2,2.10,4.20,Senior,Riverside,Card
+T00155,C021,P013,White Bread,Bakery,07/08/2025,2,1.90,3.80,Family,Westgate,Card
+T00175,C007,P045,Dish Soap,Household,2025-08-23,1,2.90,2.90,Family,Downtown,Card
+T00189,C058,P048,Shampoo,Personal Care,08/08/2025,1,4.80,4.80,Family,Eastpark,Card
+T00037,C019,P030,Pretzels,Snacks,03/16/2025,1,2.30,2.30,Young Singles,Downtown,Card
+T00108,C035,P037,Canned Beans,Pantry,2025-06-10,2,1.10,2.20,Senior,Downtown,Mobile
+T00192,C010,P044,Paper Towels,Household,11-08-2025,1,5.50,5.50,Family,Downtown,Mobile
+T00178,C016,P047,Trash Bags,Household,2025-08-05,1,4.10,4.10,Young Singles,Hilltop,Mobile
+T00164,C008,P039,Jam,Pantry,2025-07-10,1,2.80,2.80,Budget Shopper,Riverside,Card
+T00077,C006,P003,Tomatoes,Produce,2025-04-28,4,1.80,7.20,Premium Shopper,Eastpark,Cash
+T00093,C029,P004,Lettuce,Produce,12-05-2025,1,1.40,1.40,Premium Shopper,Downtown,Mobile
+T00187,C047,P027,Chocolate Bar,Snacks,2025-08-07,1,1.30,1.30,Young Singles,Eastpark,Mobile
+T00228,C057,P013,White Bread,Bakery,14-10-2025,2,1.90,3.80,Student,Riverside,Card
+T00085,C024,P021,Orange Juice,Beverages,2025-05-17,3,3.40,10.20,Student,Riverside,Card
+T00297,C019,P032,Pasta Sauce,Pantry,2025-12-12,2,2.70,5.40,Young Singles,Westgate,Cash
+T00212,C047,P034,Cereal,Pantry,2025-09-30,3,3.90,11.70,Young Singles,Downtown,Card
+T00210,C038,P031,Pasta,Pantry,09/25/2025,2,1.50,3.00,,Riverside,Cash
+T00220,C053,P035,Sugar,Pantry,2025-10-17,2,2.10,4.20,Senior,Eastpark,Card
+T00152,C025,P034,Cereal,Pantry,2025-07-14,1,3.90,3.90,Budget Shopper,Downtown,Mobile
+T00237,C042,P037,Canned Beans,Pantry,10/09/2025,2,1.10,2.20,Student,Hilltop,Card
+T00165,C011,P009,Cheddar Cheese,Dairy,2025-08-18,1,4.50,4.50,Senior,Westgate,Card
+T00194,C042,P013,White Bread,Bakery ,2025-09-21,3,1.90,5.70,Student,Downtown,Cash
+T00252,C032,P033,Rice,Pantry,2025-11-10,1,4.20,4.20,Family,Eastpark,Cash
+T00284,C040,P031,Pasta,Pantry,2025-12-16,4,1.50,,Premium Shopper,Downtown,Mobile
+T00237,C042,P048,Shampoo,Personal Care,10/09/2025,2,4.80,9.60,Student,Hilltop,Card
+T00015,C048,P020,Cola,Beverages,2025-01-24,1,1.60,1.60,Student,Riverside,Card
+T00258,C038,P006,Carrots,Produce,2025-11-24,2,0.85,1.70,Student,Downtown,Mobile
+T00285,C032,P009,Cheddar Cheese,Dairy,09-12-2025,1,4.50,4.50,Family,Riverside,Voucher
+T00268,C056,P033,Rice,Pantry,2025-11-27,3,4.20,12.60,Premium Shopper,Hilltop,Cash
+T00059,C015,P010,Greek Yogurt,Dairy,04/28/2025,1,3.20,3.20,Premium Shopper,Hilltop,Mobile
+T00283,C056,P020,Cola,Beverages ,2025-12-08,3,1.60,4.80,Premium Shopper,Hilltop,Card
+T00267,C018,P024,Tea Bags,Beverages,2025-11-27,1,3.60,3.60,Young Singles,Hilltop,Cash
+T00164,C008,P009,Cheddar Cheese,Dairy,2025-07-10,2,4.50,9.00,Budget Shopper,Riverside,Card
+T00098,C051,P037,Canned Beans,Pantry,2025-05-07,1,1.10,1.10,Young Singles,Riverside,Card
+T00316,C047,P040,Frozen Pizza,Frozen,12/07/2025,2,$5.20,$10.40,Young Singles,Downtown,Mobile
+T00212,C047,P018,Ground Beef,Meat,2025-09-30,2,7.20,14.40,Young Singles,Downtown,Card
+T00035,C053,P037,Canned Beans,Pantry,2025-02-04,2,1.10,2.20,Senior,Downtown,Card
+T00038,C010,P037,Canned Beans,Pantry,03/27/2025,2,1.10,2.20,Family,Downtown,Card
+T00147,C003,P025,Energy Drink,Beverages,2025-07-22,4,2.20,8.80,Student,Riverside,Voucher
+T00086,C059,P040,Frozen Pizza,Frozen,2025-05-10,3,5.20,15.60,Budget Shopper,Westgate,Mobile
+T00019,C057,P042,Frozen Vegetables,Frozen,2025-02-14,2,2.40,4.80,Student,Eastpark,Card
+T00314,C017,P047,Trash Bags,Household,2025-12-24,5,4.10,20.50,Senior,Hilltop,Voucher
+T00288,C013,P001,Bananas,Produce,12/13/2025,2,0.59,1.18,Senior,Riverside,Mobile
+T00020,C045,P034,Cereal,Pantry,2025-02-26,2,3.90,7.80,Student,Eastpark,Cash
+T00115,C045,P037,Canned Beans,Pantry,2025-06-07,1,1.10,1.10,Student,Westgate,Card
+T00309,C003,P039,Jam,Pantry,2025-12-03,3,2.80,8.40,Student,Riverside,Card
+T00095,C018,P008,Whole Milk,Dairy,2025-05-21,1,2.10,2.10,Young Singles,Riverside,Voucher
+T00089,C056,P002,Apples,Produce,2025-05-13,,1.20,2.40,Premium Shopper,Westgate,Card
+T00027,C053,P020,Cola,Beverages,2025-02-25,2,1.60,3.20,Senior,Riverside,Voucher
+T00010,C001,P048,Shampoo,PERSONAL CARE,2025-01-02,1,4.80,4.80,Student,Hilltop,Mobile
+T00109,C026,P013,White Bread,Bakery,2025-06-04,4,1.90,7.60,Family,Hilltop,Mobile
+T00180,C044,P042,Frozen Vegetables,Frozen,18-08-2025,4,2.40,9.60,Budget Shopper,Riverside,Mobile
+T00227,C044,P025,Energy Drink,beverages,2025-10-01,1,2.20,2.20,Budget Shopper,Downtown,Cash
+T00140,C034,P027,Chocolate Bar,Snacks,2025-07-02,3,1.30,3.90,Budget Shopper,Downtown,Mobile
+T00293,C029,P011,Butter,Dairy,2025-12-29,1,3.80,3.80,Premium Shopper,Hilltop,Mobile
+T00175,C007,P034,Cereal,Pantry,2025-08-23,3,3.90,11.70,Family,Downtown,Card
+T00178,C016,P050,Hand Soap,Personal Care,2025-08-05,3,2.20,6.60,Young Singles,Hilltop,Mobile
+T00183,C017,P047,Trash Bags,Household,08/24/2025,1,4.10,4.10,Senior,Riverside,Card
+T00214,C027,P026,Potato Chips,Snacks,2025-09-29,1,$2.50,$2.50,Family,Hilltop,Card
+T00264,C017,P040,Frozen Pizza,Frozen,11/07/2025,1,5.20,5.20,Senior,Downtown,Mobile
+T00203,C037,P021,Orange Juice,Beverages,09/23/2025,1,3.40,3.40,Young Singles,Westgate,Mobile
+T00188,C054,P020,Cola,Beverages,2025-08-21,1,1.60,1.60,Premium Shopper,Downtown,Voucher
+T00084,C031,P049,Toothpaste,Personal Care,2025-05-21,4,2.70,10.80,Student,Hilltop,Cash
+T00206,C005,P006,Carrots,Produce,2025-09-04,2,0.85,,Young Singles,Hilltop,Card
+T00046,C003,P001,Bananas,Produce,2025-03-16,3,0.59,1.77,Student,Riverside,Cash
+T00050,C030,P016,Croissant,bakery,2025-03-09,2,3.10,6.20,Family,Hilltop,Card
+T00127,C020,P023,Coffee Beans,Beverages,06/26/2025,2,8.90,17.80,Budget Shopper,Downtown,Card
+T00281,C056,P044,Paper Towels,Household,2025-12-19,1,$5.50,$5.50,Premium Shopper,Downtown,Cash
+T00242,C054,P032,Pasta Sauce,Pantry,2025-10-12,1,2.70,2.70,Premium Shopper,Hilltop,Cash
+T00024,C030,P006,Carrots,Produce,2025-02-27,1,$0.85,$0.85,Family,Riverside,Voucher
+T00100,C034,P038,Peanut Butter,Pantry,05/22/2025,1,3.50,3.50,Budget Shopper,Hilltop,Card
+T00089,C056,P048,Shampoo,Personal Care,2025-05-13,1,4.80,4.80,Premium Shopper,Westgate,Card
+T00185,C042,P025,Energy Drink,Beverages,2025-08-24,3,2.20,6.60,Student,Westgate,Card
+T00179,C004,P005,Onions,Produce,2025-08-21,3,0.90,2.70,Young Singles,Riverside,Cash
+T00205,C025,P035,Sugar,Pantry,02-09-2025,2,2.10,4.20,Budget Shopper,Westgate,Mobile
+T00298,C036,P035,Sugar,Pantry,2025-12-29,3,2.10,6.30,Premium Shopper,Westgate,Card
+T00255,C032,P007,Avocado,Produce,2025-11-15,1,1.50,1.50,Family,Downtown,Card
+T00011,C045,P028,Cookies,Snacks,01/29/2025,1,$2.90,$2.90,Student,Riverside,Cash
+T00107,C032,P030,Pretzels,snacks,2025-05-15,2,2.30,4.60,Family,Hilltop,Cash
+T00201,C022,P004,Lettuce,Produce,2025-09-01,1,1.40,1.40,Student,Eastpark,Card
+T00015,C048,P035,Sugar,Pantry,2025-01-24,4,2.10,8.40,Student,Riverside,Card
+T00042,C016,P008,Whole Milk,Dairy,2025-03-26,4,2.10,8.40,Young Singles,Riverside,Card
+T00052,C038,P027,Chocolate Bar,Snacks,2025-03-02,1,1.30,1.30,Student,Hilltop,Mobile
+T00276,C007,P011,Butter,Dairy,12/06/2025,1,3.80,3.80,Family,Riverside,Cash
+T00059,C015,P018,Ground Beef,Meat,04/28/2025,1,7.20,7.20,Premium Shopper,Hilltop,Mobile
+T00174,C060,P042,Frozen Vegetables,Frozen,2025-08-04,2,2.40,4.80,Student,Riverside,Card
+T00194,C042,P009,Cheddar Cheese,Dairy,2025-09-21,1,4.50,4.50,Student,Downtown,Cash
+T00190,C060,P015,Bagels,Bakery,08/11/2025,1,2.80,2.80,Student,Westgate,Mobile
+T00082,C025,P003,Tomatoes,Produce,05/20/2025,1,1.80,1.80,Budget Shopper,Riverside,Card
+T00306,C023,P019,Bacon,Meat,2025-12-13,2,5.40,10.80,Premium Shopper,Riverside,Card
+T00073,C041,P024,Tea Bags,Beverages,2025-04-23,1,3.60,3.60,Young Singles,Westgate,Card
+T00002,C041,P033,Rice,Pantry,23-01-2025,1,4.20,4.20,Young Singles,Downtown,Card
+T00184,C011,P047,Trash Bags,Household,08/19/2025,2,4.10,8.20,Senior,Hilltop,Card
+T00185,C042,P021,Orange Juice,Beverages,2025-08-24,1,3.40,3.40,Student,Westgate,Card
+T00023,C025,P027,Chocolate Bar,Snacks,2025-02-19,4,1.30,5.20,Budget Shopper,Westgate,Card
+T00135,C018,P039,Jam,Pantry,2025-06-02,,2.80,2.80,Young Singles,Westgate,Mobile
+T00125,C051,P020,Cola,Beverages,2025-06-28,2,1.60,3.20,Young Singles,Downtown,Cash
+T00275,C035,P023,Coffee Beans,Beverages,2025-11-28,1,8.90,8.90,Senior,Westgate,Cash
+T00148,C007,P021,Orange Juice,Beverages,2025-07-02,2,3.40,6.80,Family,Westgate,Card
+T00256,C056,P023,Coffee Beans,beverages,2025-11-07,1,8.90,8.90,Premium Shopper,Westgate,Mobile
+T00182,C042,P006,Carrots,Produce,2025-08-22,2,0.85,1.70,Student,Downtown,Card
+T00062,C059,P005,Onions,Produce,2025-04-23,2,0.90,1.80,Budget Shopper,Westgate,Card
+T00071,C004,P049,Toothpaste,Personal Care,20-04-2025,1,2.70,2.70,Young Singles,Downtown,Card
+T00154,C021,P041,Ice Cream,Frozen,2025-07-10,2,4.60,9.20,Family,Eastpark,Voucher
+T00287,C012,P028,Cookies,Snacks,2025-12-09,1,2.90,2.90,,Eastpark,Card
+T00002,C041,P043,Frozen Fries,Frozen,23-01-2025,2,3.00,6.00,Young Singles,Downtown,Card
+T00246,C039,P046,Laundry Detergent,Household,11/14/2025,1,9.40,9.40,Budget Shopper,Eastpark,Card
+T00168,C056,P040,Frozen Pizza,Frozen,2025-08-15,2,5.20,10.40,Premium Shopper,Downtown,Mobile
+T00156,C055,P046,Laundry Detergent,Household,2025-07-27,1,9.40,9.40,Student,Westgate,Mobile
+T00155,C021,P022,Sparkling Water,Beverages,07/08/2025,1,1.10,1.10,Family,Westgate,Card
+T00140,C034,P001,Bananas,Produce,2025-07-02,2,0.59,1.18,Budget Shopper,Downtown,Mobile
+T00004,C029,P006,Carrots,Produce,2025-01-03,2,0.85,1.70,Premium Shopper,Eastpark,Card
+T00075,C042,P029,Popcorn,Snacks,19-04-2025,2,2.00,4.00,Student,Eastpark,Card
+T00276,C007,P040,Frozen Pizza,Frozen,12/06/2025,1,5.20,5.20,Family,Riverside,Cash
+T00191,C008,P017,Chicken Breast,Meat,08/14/2025,1,6.50,6.50,Budget Shopper,Eastpark,Card
+T00002,C041,P005,Onions,Produce,23-01-2025,2,0.90,1.80,Young Singles,Downtown,Card
+T00294,C031,P017,Chicken Breast,Meat,12/29/2025,3,6.50,19.50,Student,Eastpark,Card
+T00038,C010,P029,Popcorn,Snacks,03/27/2025,2,2.00,4.00,Family,Downtown,Card
+T00034,C018,P032,Pasta Sauce,Pantry,2025-02-05,1,2.70,2.70,Young Singles,Downtown,Voucher
+T00051,C037,P035,Sugar,Pantry,03/01/2025,3,2.10,6.30,Young Singles,Downtown,Voucher
+T00193,C007,P050,Hand Soap,Personal Care,09/08/2025,5,2.20,11.00,Family,Westgate,Card
+T00085,C024,P007,Avocado,Produce,2025-05-17,3,1.50,4.50,Student,Riverside,Card
+T00136,C045,P021,Orange Juice,Beverages,2025-07-08,2,3.40,6.80,Student,Eastpark,Mobile
+T00255,C032,P011,Butter,Dairy,2025-11-15,5,3.80,19.00,Family,Downtown,Card
+T00221,C056,P004,Lettuce,Produce,10/11/2025,3,1.40,4.20,Premium Shopper,Hilltop,Card
+T00092,C026,P008,Whole Milk,Dairy,2025-05-29,2,2.10,4.20,Family,Westgate,Mobile
+T00092,C026,P034,Cereal,PANTRY,2025-05-29,2,3.90,7.80,Family,Westgate,Mobile
+T00128,C047,P025,Energy Drink,Beverages,06/21/2025,2,2.20,4.40,Young Singles,Westgate,Card
+T00014,C003,P028,Cookies,Snacks,2025-01-09,1,2.90,2.90,Student,Downtown,Cash
+T00266,C012,P031,Pasta,Pantry,2025-11-06,1,1.50,1.50,Young Singles,Eastpark,Voucher
+T00233,C017,P004,Lettuce,Produce,29-10-2025,3,1.40,4.20,Senior,Riverside,Cash
+T00266,C012,P048,Shampoo,Personal Care,2025-11-06,5,4.80,24.00,Young Singles,Eastpark,Voucher
+T00041,C026,P030,Pretzels,Snacks,2025-03-25,1,2.30,2.30,Family,Eastpark,Mobile
+T00046,C003,P029,Popcorn,Snacks,2025-03-16,2,2.00,4.00,Student,Riverside,Cash
+T00042,C016,P015,Bagels,Bakery,2025-03-26,1,2.80,2.80,Young Singles,Riverside,Card
+T00203,C037,P039,Jam,Pantry,09/23/2025,4,2.80,11.20,Young Singles,Westgate,Mobile
+T00176,C024,P044,Paper Towels,Household,08/11/2025,1,5.50,5.50,Student,Hilltop,Card
+T00101,C060,P018,Ground Beef,Meat,11-05-2025,2,7.20,14.40,Student,Riverside,Card
+T00048,C056,P023,Coffee Beans,BEVERAGES,2025-03-23,1,8.90,,Premium Shopper,Downtown,Card
+T00233,C017,P007,Avocado,Produce,29-10-2025,3,1.50,4.50,Senior,Riverside,Cash
+T00012,C036,P040,Frozen Pizza,Frozen,01/25/2025,1,5.20,5.20,Premium Shopper,Westgate,Voucher
+T00287,C012,P035,Sugar,Pantry,2025-12-09,3,2.10,6.30,Young Singles,Eastpark,Card
+T00171,C018,P026,Potato Chips,snacks,2025-08-21,1,2.50,2.50,Young Singles,Westgate,Card
+T00115,C045,P019,Bacon,Meat,2025-06-07,4,5.40,21.60,Student,Westgate,Card
+T00046,C003,P034,Cereal,Pantry,2025-03-16,1,3.90,3.90,Student,Riverside,Cash
+T00293,C029,P035,Sugar,Pantry,2025-12-29,2,2.10,4.20,,Hilltop,Mobile
+T00159,C030,P032,Pasta Sauce,Pantry,2025-07-13,2,$2.70,$5.40,Family,Eastpark,Mobile
+T00240,C042,P001,Bananas,Produce,2025-10-24,2,0.59,1.18,Student,Downtown,Card
+T00221,C056,P013,White Bread,bakery,10/11/2025,1,1.90,1.90,Premium Shopper,Hilltop,Card
+T00116,C014,P007,Avocado,Produce,2025-06-16,2,1.50,3.00,Senior,Riverside,Mobile
+T00215,C051,P048,Shampoo,Personal Care,09/27/2025,3,4.80,14.40,Young Singles,Hilltop,Card
+T00163,C026,P025,Energy Drink,BEVERAGES,2025-07-20,2,2.20,4.40,Family,Eastpark,Card
+T00024,C030,P039,Jam,Pantry,2025-02-27,1,2.80,2.80,Family,Riverside,Voucher
+T00110,C054,P002,Apples,Produce,06/17/2025,1,1.20,1.20,Premium Shopper,Eastpark,Cash
+T00195,C044,P018,Ground Beef,Meat,2025-09-13,2,7.20,14.40,Budget Shopper,Westgate,Card
+T00137,C033,P041,Ice Cream,Frozen,07/12/2025,2,4.60,9.20,Premium Shopper,Westgate,Cash
+T00215,C051,P015,Bagels,Bakery,09/27/2025,1,2.80,2.80,Young Singles,Hilltop,Card
+T00033,C035,P008,Whole Milk,Dairy,02/24/2025,1,2.10,2.10,Senior,Riverside,Card
+T00026,C013,P014,Whole Wheat Bread,Bakery,2025-02-08,1,2.40,2.40,Senior,Downtown,Cash
+T00294,C031,P006,Carrots,Produce,12/29/2025,1,0.85,0.85,Student,Eastpark,Card
+T00222,C053,P031,Pasta,Pantry ,10/19/2025,1,1.50,1.50,Senior,Riverside,Card
+T00302,C013,P032,Pasta Sauce,Pantry,2025-12-02,2,2.70,5.40,Senior,Westgate,Mobile
+T00298,C036,P017,Chicken Breast,Meat,2025-12-29,1,6.50,6.50,Premium Shopper,Westgate,Card
+T00242,C054,P011,Butter,Dairy ,2025-10-12,2,3.80,7.60,Premium Shopper,Hilltop,Cash
+T00217,C003,P024,Tea Bags,Beverages,2025-10-08,1,3.60,3.60,Student,Westgate,Card
+T00200,C035,P039,Jam,Pantry,2025-09-16,1,2.80,2.80,Senior,Hilltop,Card
+T00211,C029,P011,Butter,Dairy,2025-09-25,5,3.80,19.00,Premium Shopper,Riverside,Voucher
+T00267,C018,P025,Energy Drink,Beverages,2025-11-27,1,2.20,2.20,Young Singles,Hilltop,Cash
+T00074,C050,P007,Avocado,Produce,29-04-2025,3,1.50,4.50,Premium Shopper,Hilltop,Card
+T00270,C058,P037,Canned Beans,Pantry,2025-11-02,2,1.10,2.20,Family,Eastpark,Card
+T00315,C021,P040,Frozen Pizza,Frozen,28-12-2025,4,5.20,20.80,Family,Downtown,Mobile
+T00057,C045,P024,Tea Bags,Beverages,2025-03-02,5,3.60,18.00,Student,Hilltop,Card
+T00217,C003,P033,Rice,Pantry,2025-10-08,2,4.20,8.40,Student,Westgate,Card
+T00182,C042,P004,Lettuce,Produce,2025-08-22,2,1.40,2.80,Student,Downtown,Card
+T00139,C032,P035,Sugar,Pantry,07/24/2025,,2.10,4.20,Family,Westgate,Card
+T00050,C030,P037,Canned Beans,Pantry,2025-03-09,3,1.10,3.30,,Hilltop,Card
+T00008,C009,P030,Pretzels,Snacks,13-01-2025,3,2.30,6.90,Senior,Hilltop,Cash
+T00012,C036,P040,Frozen Pizza,Frozen,01/25/2025,1,5.20,5.20,Premium Shopper,Westgate,Voucher
+T00096,C019,P012,Eggs,Dairy,2025-05-20,4,2.60,10.40,Young Singles,Westgate,Card
+T00312,C043,P026,Potato Chips,Snacks,2025-12-23,2,2.50,5.00,Student,Westgate,Mobile
+T00119,C054,P019,Bacon,Meat,2025-06-02,1,5.40,5.40,Premium Shopper,Westgate,Mobile
+T00309,C003,P013,White Bread,Bakery,2025-12-03,1,1.90,1.90,Student,Riverside,Card
+T00170,C018,P021,Orange Juice,Beverages,2025-08-02,1,3.40,3.40,Young Singles,Riverside,Mobile
+T00212,C047,P008,Whole Milk,Dairy,2025-09-30,,2.10,2.10,Young Singles,Downtown,Card
+T00269,C052,P038,Peanut Butter,pantry,2025-11-14,3,3.50,10.50,Young Singles,Hilltop,Mobile
+T00182,C042,P008,  Whole Milk ,Dairy,2025-08-22,2,2.10,4.20,Student,Downtown,Card
+T00236,C031,P023,Coffee Beans,beverages,2025-10-19,1,8.90,8.90,Student,Eastpark,Mobile
+T00051,C037,P050,Hand Soap,Personal Care,03/01/2025,1,2.20,,Young Singles,Downtown,Voucher
+T00033,C035,P038,Peanut Butter,Pantry,02/24/2025,5,3.50,17.50,Senior,Riverside,Card
+T00157,C026,P020,Cola,Beverages,19-07-2025,1,1.60,1.60,Family,Eastpark,Cash
+T00219,C018,P039,Jam,Pantry,10/07/2025,1,2.80,2.80,Young Singles,Westgate,Cash
+T00026,C013,P008,Whole Milk,Dairy,2025-02-08,2,2.10,4.20,Senior,Downtown,Cash
+T00280,C033,P017,Chicken Breast,Meat,2025-12-03,2,6.50,13.00,Premium Shopper,Hilltop,Card
+T00199,C055,P039,Jam,Pantry,09/19/2025,4,2.80,11.20,Student,Westgate,Card
+T00250,C038,P013,White Bread,Bakery,2025-11-25,1,1.90,1.90,Student,Eastpark,Mobile
+T00142,C033,P007,Avocado,Produce,01-07-2025,1,1.50,1.50,Premium Shopper,Westgate,Mobile
+T00040,C055,P036,Olive Oil,Pantry ,2025-03-04,1,7.80,7.80,Student,Riverside,Card
+T00271,C033,P007,Avocado,Produce,2025-11-22,2,1.50,3.00,Premium Shopper,Hilltop,Card
+T00161,C036,P012,Eggs,Dairy,2025-07-11,2,$2.60,$5.20,Premium Shopper,Westgate,Voucher
+T00210,C038,P032,Pasta Sauce,Pantry,09/25/2025,5,2.70,13.50,Student,Riverside,Cash
+T00014,C003,P033,Rice,Pantry,2025-01-09,2,4.20,8.40,Student,Downtown,Cash
+T00188,C054,P007,Avocado,produce,2025-08-21,1,1.50,1.50,Premium Shopper,Downtown,Voucher
+T00087,C004,P032,Pasta Sauce,Pantry,05/04/2025,2,2.70,5.40,Young Singles,Riverside,Card
+T00129,C026,P044,Paper Towels,Household,18-06-2025,1,5.50,5.50,Family,Eastpark,Card
+T00047,C055,P035,Sugar,PANTRY,2025-03-22,1,2.10,2.10,Student,Eastpark,Card
+T00302,C013,P014,Whole Wheat Bread,Bakery,2025-12-02,2,2.40,4.80,Senior,Westgate,Mobile
+T00084,C031,P019,Bacon,Meat,2025-05-21,2,5.40,10.80,Student,Hilltop,Cash
+T00307,C005,P024,Tea Bags,Beverages,2025-12-06,3,3.60,10.80,Young Singles,Eastpark,Card
+T00188,C054,P048,Shampoo,Personal Care,2025-08-21,,$4.80,$4.80,,Downtown,Voucher
+T00306,C023,P035,Sugar,Pantry,2025-12-13,2,2.10,4.20,Premium Shopper,Riverside,Card
+T00266,C012,P003,Tomatoes,produce,2025-11-06,2,$1.80,$3.60,Young Singles,Eastpark,Voucher
+T00121,C019,P021,Orange Juice,Beverages,2025-06-26,1,3.40,3.40,Young Singles,Eastpark,Mobile
+T00135,C018,P036,Olive Oil,Pantry,2025-06-02,2,7.80,15.60,Young Singles,Westgate,Mobile
+T00308,C055,P035,Sugar,Pantry,2025-12-20,1,2.10,2.10,Student,Hilltop,Mobile
+T00053,C033,P048,Shampoo,Personal Care,2025-03-17,1,4.80,4.80,Premium Shopper,Hilltop,Mobile
+T00013,C053,P039,Jam,Pantry ,01/07/2025,4,2.80,11.20,Senior,Westgate,Card
+T00194,C042,P039,Jam,pantry,2025-09-21,4,2.80,11.20,Student,Downtown,Cash
+T00231,C054,P036,Olive Oil,Pantry,2025-10-09,,7.80,31.20,Premium Shopper,Eastpark,Voucher
+T00161,C036,P043,Frozen Fries,frozen,2025-07-11,1,3.00,3.00,Premium Shopper,Westgate,Voucher
+T00117,C007,P041,Ice Cream,Frozen,2025-06-02,2,4.60,9.20,Family,Westgate,Card
+T00174,C060,P025,Energy Drink,Beverages,2025-08-04,1,2.20,2.20,Student,Riverside,Card
+T00011,C045,P003,Tomatoes,Produce ,01/29/2025,1,1.80,1.80,Student,Riverside,Cash
+T00287,C012,P014,Whole Wheat Bread,Bakery,2025-12-09,2,2.40,4.80,Young Singles,Eastpark,Card
+T00120,C055,P047,Trash Bags,Household,2025-06-05,2,4.10,8.20,,Eastpark,Cash
+T00167,C053,P035,Sugar,Pantry,08/18/2025,3,2.10,6.30,Senior,Hilltop,Cash
+T00162,C014,P022,Sparkling Water,Beverages,07/23/2025,1,1.10,1.10,Senior,Riverside,Card
+T00073,C041,P040,Frozen Pizza,Frozen,2025-04-23,1,5.20,5.20,Young Singles,Westgate,Card
+T00300,C015,P024,Tea Bags,Beverages,2025-12-01,1,3.60,,Premium Shopper,Downtown,Card
+T00012,C036,P024,Tea Bags,Beverages,01/25/2025,2,3.60,7.20,Premium Shopper,Westgate,Voucher
+T00264,C017,P020,Cola,Beverages,11/07/2025,4,1.60,6.40,Senior,Downtown,Mobile
+T00250,C038,P044,Paper Towels,Household,2025-11-25,1,5.50,5.50,Student,Eastpark,Mobile
+T00140,C034,P009,Cheddar Cheese,dairy,2025-07-02,2,4.50,9.00,Budget Shopper,Downtown,Mobile
+T00138,C027,P016,Croissant,Bakery,2025-07-24,1,3.10,3.10,Family,Hilltop,Card
+T00032,C019,P034,Cereal,Pantry,2025-02-03,5,$3.90,$19.50,Young Singles,Riverside,Card
+T00162,C014,P037,Canned Beans,Pantry,07/23/2025,3,1.10,3.30,Senior,Riverside,Card
+T00011,C045,P010,  Greek Yogurt ,Dairy,01/29/2025,4,3.20,12.80,Student,Riverside,Cash
+T00239,C004,P030,Pretzels,Snacks,2025-10-09,1,2.30,2.30,Young Singles,Eastpark,Card
+T00215,C051,P011,Butter,Dairy,09/27/2025,1,3.80,3.80,Young Singles,Hilltop,Card
+T00264,C017,P026,Potato Chips,Snacks,11/07/2025,2,2.50,5.00,Senior,Downtown,Mobile
+T00198,C002,P031,Pasta,Pantry,2025-09-06,1,1.50,1.50,,Hilltop,Cash
+T00163,C026,P012,Eggs,Dairy ,2025-07-20,1,2.60,,Family,Eastpark,Card
+T00167,C053,P029,Popcorn,Snacks,08/18/2025,1,2.00,2.00,Senior,Hilltop,Cash
+T00183,C017,P025,Energy Drink,Beverages,08/24/2025,1,2.20,2.20,Senior,Riverside,Card
+T00178,C016,P039,Jam,pantry,2025-08-05,4,2.80,11.20,Young Singles,Hilltop,Mobile
+T00295,C009,P020,Cola,Beverages,2025-12-05,2,1.60,3.20,Senior,Eastpark,Mobile
+T00280,C033,P025,Energy Drink,Beverages,2025-12-03,2,2.20,4.40,Premium Shopper,Hilltop,Card
+T00188,C054,P047,Trash Bags,Household,2025-08-21,5,4.10,20.50,Premium Shopper,Downtown,Voucher
+T00119,C054,P022,Sparkling Water,Beverages,2025-06-02,1,1.10,1.10,Premium Shopper,Westgate,Mobile
+T00092,C026,P045,Dish Soap,Household,2025-05-29,1,2.90,2.90,Family,Westgate,Mobile
+T00219,C018,P012,  Eggs ,Dairy,10/07/2025,1,2.60,2.60,Young Singles,Westgate,Cash
+T00115,C045,P020,Cola,Beverages,2025-06-07,2,1.60,3.20,Student,Westgate,Card
+T00249,C025,P036,Olive Oil,Pantry,11/30/2025,3,7.80,23.40,Budget Shopper,Westgate,Card
+T00222,C053,P043,Frozen Fries,Frozen,10/19/2025,3,3.00,9.00,Senior,Riverside,Card
+T00186,C020,P037,Canned Beans,Pantry,2025-08-28,2,1.10,2.20,Budget Shopper,Hilltop,Card
+T00012,C036,P023,Coffee Beans,Beverages,01/25/2025,3,8.90,26.70,Premium Shopper,Westgate,Voucher
+T00235,C026,P042,Frozen Vegetables,Frozen,2025-10-04,1,2.40,2.40,Family,Westgate,Voucher
+T00311,C005,P013,White Bread,Bakery,2025-12-10,2,1.90,3.80,Young Singles,Riverside,Voucher
+T00131,C039,P049,Toothpaste,personal care,2025-06-15,3,2.70,8.10,Budget Shopper,Downtown,Card
+T00073,C041,P020,Cola,Beverages,2025-04-23,1,1.60,1.60,Young Singles,Westgate,Card
+T00267,C018,P035,Sugar,PANTRY,2025-11-27,4,2.10,8.40,Young Singles,Hilltop,Cash
+T00140,C034,P049,Toothpaste,Personal Care,2025-07-02,2,2.70,5.40,Budget Shopper,Downtown,Mobile
+T00292,C041,P011,Butter,Dairy,2025-12-06,2,3.80,7.60,Young Singles,Hilltop,Card
+T00097,C052,P020,Cola,Beverages,05/03/2025,2,1.60,3.20,Young Singles,Hilltop,Mobile
+T00210,C038,P035,Sugar,Pantry,09/25/2025,1,2.10,2.10,Student,Riverside,Cash
+T00153,C030,P020,Cola,Beverages,2025-07-07,3,1.60,4.80,Family,Downtown,Card
+T00189,C058,P039,Jam,Pantry,08/08/2025,1,2.80,2.80,Family,Eastpark,Card
+T00261,C005,P022,Sparkling Water,Beverages,11/22/2025,1,1.10,1.10,Young Singles,Hilltop,Card
+T00134,C016,P004,Lettuce,Produce,06/16/2025,2,1.40,2.80,Young Singles,Riverside,Card
+T00286,C023,P034,Cereal,pantry,12/17/2025,2,3.90,7.80,Premium Shopper,Westgate,Mobile
+T00276,C007,P004,Lettuce,produce,12/06/2025,1,1.40,1.40,Family,Riverside,Cash
+T00050,C030,P025,Energy Drink,Beverages,2025-03-09,1,2.20,2.20,Family,Hilltop,Card
+T00019,C057,P010,Greek Yogurt,Dairy,2025-02-14,3,3.20,9.60,Student,Eastpark,Card
+T00058,C018,P014,Whole Wheat Bread,Bakery,13-03-2025,1,2.40,2.40,Young Singles,Riverside,Voucher
+T00229,C057,P042,Frozen Vegetables,Frozen,2025-10-13,1,2.40,2.40,Student,Hilltop,Mobile
+T00058,C018,P041,Ice Cream,frozen,13-03-2025,2,4.60,9.20,Young Singles,Riverside,Voucher
+T00206,C005,P039,Jam,Pantry,2025-09-04,5,2.80,14.00,Young Singles,Hilltop,Card
+T00225,C030,P012,Eggs,Dairy,10/30/2025,2,2.60,5.20,Family,Riverside,Card
+T00064,C060,P007,Avocado,Produce,04/22/2025,3,$1.50,$4.50,Student,Westgate,Card
+T00126,C029,P041,Ice Cream,Frozen,06/17/2025,2,4.60,9.20,Premium Shopper,Downtown,Mobile
+T00284,C040,P032,Pasta Sauce,Pantry,2025-12-16,1,2.70,2.70,Premium Shopper,Downtown,Mobile
+T00311,C005,P035,Sugar,Pantry,2025-12-10,2,2.10,4.20,Young Singles,Riverside,Voucher
+T00276,C007,P025,Energy Drink,Beverages,12/06/2025,4,2.20,8.80,Family,Riverside,Cash
+T00005,C001,P047,Trash Bags,Household,01/13/2025,2,4.10,8.20,Student,Westgate,Card
+T00290,C054,P036,  Olive Oil ,Pantry,2025-12-16,1,7.80,7.80,Premium Shopper,Downtown,Card
+T00315,C021,P020,Cola,Beverages,28-12-2025,2,1.60,3.20,Family,Downtown,Mobile
+T00125,C051,P008,Whole Milk,Dairy,2025-06-28,1,2.10,2.10,Young Singles,Downtown,Cash
+T00009,C043,P048,Shampoo,personal care,2025-01-01,4,4.80,19.20,Student,Eastpark,Card
+T00066,C037,P023,Coffee Beans,Beverages,2025-04-04,1,8.90,8.90,Young Singles,Eastpark,Card
+T00054,C001,P041,Ice Cream,frozen,2025-03-13,1,4.60,4.60,Student,Hilltop,Cash
+T00046,C003,P047,Trash Bags,Household,2025-03-16,1,4.10,4.10,Student,Riverside,Cash
+T00039,C021,P049,Toothpaste,Personal Care,2025-03-24,1,2.70,2.70,Family,Eastpark,Card
+T00147,C003,P020,Cola,Beverages,2025-07-22,2,1.60,3.20,Student,Riverside,Voucher
+T00295,C009,P018,Ground Beef,Meat,2025-12-05,1,7.20,7.20,Senior,Eastpark,Mobile
+T00235,C026,P011,Butter,Dairy,2025-10-04,1,3.80,3.80,Family,Westgate,Voucher
+T00111,C058,P039,Jam,Pantry,2025-06-26,3,2.80,8.40,Family,Downtown,Cash
+T00226,C006,P003,Tomatoes,Produce,2025-10-25,3,$1.80,$5.40,Premium Shopper,Riverside,Cash
+T00279,C048,P040,Frozen Pizza,Frozen ,2025-12-01,1,5.20,5.20,Student,Downtown,Voucher
+T00300,C015,P035,Sugar,Pantry,2025-12-01,,2.10,2.10,Premium Shopper,Downtown,Card
+T00080,C020,P044,Paper Towels,Household,04/03/2025,2,5.50,11.00,Budget Shopper,Eastpark,Card
+T00285,C032,P015,Bagels,Bakery,09-12-2025,2,2.80,5.60,Family,Riverside,Voucher
+T00045,C025,P025,Energy Drink,Beverages,2025-03-19,3,2.20,6.60,Budget Shopper,Riverside,Mobile
+T00219,C018,P042,Frozen Vegetables,Frozen,10/07/2025,2,2.40,4.80,Young Singles,Westgate,Cash
+T00304,C016,P039,Jam,Pantry,2025-12-26,2,2.80,5.60,Young Singles,Downtown,Voucher
+T00303,C057,P041,Ice Cream,Frozen ,2025-12-12,1,4.60,4.60,Student,Downtown,Mobile
+T00143,C030,P020,Cola,Beverages,2025-07-13,1,1.60,1.60,Family,Eastpark,Card
+T00142,C033,P034,Cereal,Pantry,01-07-2025,1,3.90,3.90,Premium Shopper,Westgate,Mobile
+T00166,C049,P050,Hand Soap,Personal Care,2025-08-26,2,2.20,4.40,Family,Riverside,Card
+T00014,C003,P039,Jam,Pantry,2025-01-09,1,2.80,2.80,Student,Downtown,Cash
+T00112,C045,P045,Dish Soap,Household,2025-06-19,4,2.90,11.60,Student,Downtown,Card
+T00315,C021,P037,Canned Beans,Pantry,28-12-2025,1,1.10,1.10,Family,Downtown,Mobile
+T00060,C017,P005,Onions,Produce,2025-04-06,2,0.90,1.80,Senior,Downtown,Card
+T00114,C052,P036,Olive Oil,Pantry,2025-06-21,1,7.80,7.80,Young Singles,Hilltop,Cash
+T00090,C023,P030,Pretzels,Snacks,2025-05-02,1,2.30,2.30,Premium Shopper,Eastpark,Card
+T00170,C018,P041,Ice Cream,Frozen,2025-08-02,1,4.60,4.60,Young Singles,Riverside,Mobile
+T00266,C012,P047,Trash Bags,Household,2025-11-06,2,4.10,8.20,Young Singles,Eastpark,Voucher
+T00186,C020,P019,Bacon,Meat,2025-08-28,2,5.40,10.80,Budget Shopper,Hilltop,Card
+T00249,C025,P048,Shampoo,Personal Care,11/30/2025,1,4.80,4.80,Budget Shopper,Westgate,Card
+T00250,C038,P039,Jam,Pantry ,2025-11-25,3,2.80,8.40,,Eastpark,Mobile
+T00197,C052,P002,Apples,Produce,29-09-2025,2,1.20,2.40,Young Singles,Eastpark,Card
+T00155,C021,P037,Canned Beans,Pantry,07/08/2025,2,1.10,2.20,Family,Westgate,Card
+T00086,C059,P006,Carrots,Produce,2025-05-10,2,$0.85,$1.70,Budget Shopper,Westgate,Mobile
+T00310,C046,P035,Sugar,Pantry,20-12-2025,4,2.10,8.40,Premium Shopper,Downtown,Card
+T00112,C045,P027,Chocolate Bar,Snacks,2025-06-19,1,1.30,1.30,Student,Downtown,Card
+T00070,C006,P049,Toothpaste,Personal Care,2025-04-22,1,2.70,2.70,Premium Shopper,Hilltop,Card
+T00039,C021,P044,Paper Towels,Household,2025-03-24,3,5.50,16.50,Family,Eastpark,Card
+T00196,C032,P025,Energy Drink,Beverages,2025-09-10,1,2.20,2.20,Family,Westgate,Mobile
+T00093,C029,P041,Ice Cream,Frozen,12-05-2025,2,4.60,9.20,Premium Shopper,Downtown,Mobile
+T00086,C059,P020,Cola,Beverages,2025-05-10,1,1.60,1.60,Budget Shopper,Westgate,Mobile
+T00259,C059,P037,Canned Beans,Pantry,2025-11-29,1,1.10,1.10,,Hilltop,Voucher
+T00080,C020,P008,Whole Milk,Dairy,04/03/2025,4,2.10,8.40,,Eastpark,Card
+T00190,C060,P011,Butter,Dairy,08/11/2025,1,3.80,3.80,Student,Westgate,Mobile
+T00082,C025,P047,Trash Bags,Household,05/20/2025,1,4.10,4.10,Budget Shopper,Riverside,Card
+T00123,C008,P041,Ice Cream,Frozen,2025-06-22,1,4.60,4.60,Budget Shopper,Westgate,Card
+T00082,C025,P011,Butter,Dairy,05/20/2025,1,3.80,3.80,Budget Shopper,Riverside,Card
+T00126,C029,P033,Rice,Pantry,06/17/2025,1,4.20,4.20,Premium Shopper,Downtown,Mobile
+T00078,C006,P034,Cereal,Pantry,2025-04-23,2,3.90,7.80,Premium Shopper,Eastpark,Mobile
+T00270,C058,P041,Ice Cream,Frozen,2025-11-02,1,4.60,4.60,Family,Eastpark,Card
+T00202,C038,P047,Trash Bags,Household,2025-09-13,1,4.10,4.10,Student,Downtown,Card
+T00192,C010,P020,Cola,Beverages,11-08-2025,1,1.60,1.60,Family,Downtown,Mobile
+T00258,C038,P023,Coffee Beans,Beverages,2025-11-24,1,8.90,8.90,Student,Downtown,Mobile
+T00090,C023,P045,Dish Soap,Household,2025-05-02,2,2.90,5.80,Premium Shopper,Eastpark,Card
+T00151,C009,P027,Chocolate Bar,Snacks,2025-07-04,1,1.30,1.30,Senior,Downtown,Card
+T00252,C032,P012,Eggs,Dairy,2025-11-10,4,2.60,10.40,Family,Eastpark,Cash
+T00139,C032,P047,Trash Bags,Household,07/24/2025,2,4.10,8.20,Family,Westgate,Card
+T00313,C021,P028,Cookies,Snacks,2025-12-29,3,2.90,8.70,Family,Eastpark,Voucher
+T00231,C054,P011,Butter,Dairy,2025-10-09,2,3.80,7.60,Premium Shopper,Eastpark,Voucher
+T00049,C030,P035,Sugar,Pantry,03/09/2025,1,2.10,2.10,Family,Hilltop,Mobile
+T00082,C025,P029,Popcorn,Snacks,05/20/2025,1,2.00,2.00,Budget Shopper,Riverside,Card
+T00238,C028,P040,Frozen Pizza,Frozen,2025-10-04,2,5.20,,Budget Shopper,Riverside,Cash
+T00208,C031,P017,Chicken Breast,Meat,2025-09-03,1,6.50,6.50,Student,Downtown,Card
+T00090,C023,P031,Pasta,Pantry,2025-05-02,1,1.50,1.50,Premium Shopper,Eastpark,Card
+T00138,C027,P032,Pasta Sauce,Pantry,2025-07-24,2,2.70,5.40,Family,Hilltop,Card
+T00174,C060,P020,Cola,Beverages,2025-08-04,1,1.60,1.60,Student,Riverside,Card
+T00015,C048,P022,Sparkling Water,Beverages,2025-01-24,1,1.10,1.10,Student,Riverside,Card
+T00235,C026,P031,Pasta,Pantry,2025-10-04,1,1.50,1.50,Family,Westgate,Voucher
+T00160,C046,P022,Sparkling Water,Beverages,2025-07-26,2,1.10,2.20,Premium Shopper,Downtown,Card
+T00036,C020,P049,Toothpaste,Personal Care,2025-02-15,2,2.70,5.40,Budget Shopper,Eastpark,Voucher
+T00171,C018,P006,Carrots,Produce,2025-08-21,3,0.85,2.55,Young Singles,Westgate,Card
+T00300,C015,P023,Coffee Beans,Beverages,2025-12-01,3,8.90,26.70,Premium Shopper,Downtown,Card
+T00147,C003,P026,Potato Chips,Snacks,2025-07-22,3,2.50,7.50,Student,Riverside,Voucher
+T00185,C042,P037,Canned Beans,Pantry,2025-08-24,2,1.10,2.20,Student,Westgate,Card
+T00216,C024,P033,Rice,Pantry,2025-09-28,3,4.20,12.60,Student,Downtown,Cash

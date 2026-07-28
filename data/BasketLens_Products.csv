@@ -1,0 +1,51 @@
+ProductID,ProductName,Category,Department,UnitPrice
+P001,Bananas,Produce,Fresh Food,0.59
+P002,Apples,Produce,Fresh Food,1.20
+P003,Tomatoes,Produce,Fresh Food,1.80
+P004,Lettuce,Produce,Fresh Food,1.40
+P005,Onions,Produce,Fresh Food,0.90
+P006,Carrots,Produce,Fresh Food,0.85
+P007,Avocado,Produce,Fresh Food,1.50
+P008,Whole Milk,Dairy,Fresh Food,2.10
+P009,Cheddar Cheese,Dairy,Fresh Food,4.50
+P010,Greek Yogurt,Dairy,Fresh Food,3.20
+P011,Butter,Dairy,Fresh Food,3.80
+P012,Eggs,Dairy,Fresh Food,2.60
+P013,White Bread,Bakery,Fresh Food,1.90
+P014,Whole Wheat Bread,Bakery,Fresh Food,2.40
+P015,Bagels,Bakery,Fresh Food,2.80
+P016,Croissant,Bakery,Fresh Food,3.10
+P017,Chicken Breast,Meat,Fresh Food,6.50
+P018,Ground Beef,Meat,Fresh Food,7.20
+P019,Bacon,Meat,Fresh Food,5.40
+P020,Cola,Beverages,Grocery,1.60
+P021,Orange Juice,Beverages,Grocery,3.40
+P022,Sparkling Water,Beverages,Grocery,1.10
+P023,Coffee Beans,Beverages,Grocery,8.90
+P024,Tea Bags,Beverages,Grocery,3.60
+P025,Energy Drink,Beverages,Grocery,2.20
+P026,Potato Chips,Snacks,Grocery,2.50
+P027,Chocolate Bar,Snacks,Grocery,1.30
+P028,Cookies,Snacks,Grocery,2.90
+P029,Popcorn,Snacks,Grocery,2.00
+P030,Pretzels,Snacks,Grocery,2.30
+P031,Pasta,Pantry,Grocery,1.50
+P032,Pasta Sauce,Pantry,Grocery,2.70
+P033,Rice,Pantry,Grocery,4.20
+P034,Cereal,Pantry,Grocery,3.90
+P035,Sugar,Pantry,Grocery,2.10
+P036,Olive Oil,Pantry,Grocery,7.80
+P037,Canned Beans,Pantry,Grocery,1.10
+P038,Peanut Butter,Pantry,Grocery,3.50
+P039,Jam,Pantry,Grocery,2.80
+P040,Frozen Pizza,Frozen,Grocery,5.20
+P041,Ice Cream,Frozen,Grocery,4.60
+P042,Frozen Vegetables,Frozen,Grocery,2.40
+P043,Frozen Fries,Frozen,Grocery,3.00
+P044,Paper Towels,Household,Non-Food,5.50
+P045,Dish Soap,Household,Non-Food,2.90
+P046,Laundry Detergent,Household,Non-Food,9.40
+P047,Trash Bags,Household,Non-Food,4.10
+P048,Shampoo,Personal Care,Non-Food,4.80
+P049,Toothpaste,Personal Care,Non-Food,2.70
+P050,Hand Soap,Personal Care,Non-Food,2.20
